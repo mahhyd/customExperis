@@ -1,0 +1,1561 @@
+product_id;product_name;brand_name;product_class_id;gross_weight;net_weight;recyclable_package;low_fat;units_per_case;cases_per_pallet;shelf_width;shelf_height;shelf_depth
+1;Washington Berry Juice;Washington;30;8.39;6.39;f;f;30;14;16.9;12.6;7.4
+2;Washington Mango Drink;Washington;52;7.42;4.42;f;t;18;8;13.4;3.71;22.6
+3;Washington Strawberry Drink;Washington;52;13.1;11.1;t;t;17;13;14.4;11;7.77
+4;Washington Cream Soda;Washington;19;10.6;9.6;t;f;26;10;22.9;18.9;7.93
+5;Washington Diet Soda;Washington;19;6.66;4.65;t;f;7;10;20.7;21.9;19.2
+6;Washington Cola;Washington;19;15.8;13.8;f;f;14;10;6.42;18.1;21.3
+7;Washington Diet Cola;Washington;19;18;17;t;f;11;7;15;16.9;21
+8;Washington Orange Juice;Washington;30;8.97;6.97;t;f;27;7;7.56;11.8;8.92
+9;Washington Cranberry Juice;Washington;30;7.14;5.13;f;f;34;7;18.5;16.1;14.4
+10;Washington Apple Juice;Washington;30;8.13;7.13;t;f;28;14;21.6;7.32;9.2
+11;Washington Apple Drink;Washington;52;20;19;f;t;3;10;19.4;10.3;20.4
+12;Jeffers Oatmeal;Jeffers;35;8.9;6.89;t;t;14;6;15.9;15.4;10.8
+13;Jeffers Corn Puffs;Jeffers;35;10.4;7.39;f;f;20;10;18.2;10.3;14.6
+14;Jeffers Wheat Puffs;Jeffers;35;21.6;20.6;t;t;33;10;7.73;6.94;8.01
+15;Jeffers Grits;Jeffers;35;21.3;20.2;f;t;14;9;8.96;18.3;12.4
+16;Blue Label Canned Beets;Blue Label;62;21.2;18.2;f;t;31;10;19;21.9;9.39
+17;Blue Label Creamed Corn;Blue Label;62;6.91;3.9;t;t;34;9;7.8;17.8;8.26
+18;Blue Label Canned String Beans;Blue Label;62;12.6;10.6;t;f;26;10;8.87;5.18;13.3
+19;Blue Label Chicken Soup;Blue Label;58;15.2;12.1;t;t;35;7;22.6;21.1;16.9
+20;Blue Label Canned Yams;Blue Label;62;21.3;19.2;f;t;22;8;5.95;5.22;11.8
+21;Blue Label Vegetable Soup;Blue Label;58;19.7;18.7;f;t;18;7;11.7;18.8;11.6
+22;Blue Label Canned Tomatos;Blue Label;62;15;14;f;f;31;13;19;8.73;5.02
+23;Blue Label Noodle Soup;Blue Label;58;10.6;9.6;t;f;17;9;19.8;3.16;15.7
+24;Blue Label Regular Ramen Soup;Blue Label;58;12.8;10.8;f;t;23;8;20.7;21.3;6.98
+25;Blue Label Chicken Noodle Soup;Blue Label;58;9.48;8.47;t;t;21;10;4.98;4.71;22.4
+26;Blue Label Turkey Noodle Soup;Blue Label;58;16.5;13.5;t;t;21;11;12.8;11;12
+27;Blue Label Beef Soup;Blue Label;58;11.2;8.19;f;t;14;12;9.91;7.62;3.1
+28;Blue Label Canned Peas;Blue Label;62;21.9;20.8;t;f;33;9;8.1;22;21.5
+29;Blue Label Chicken Ramen Soup;Blue Label;58;17.1;16.1;f;f;34;5;6.61;19.7;22.3
+30;Blue Label Canned Tuna in Water;Blue Label;93;9.71;7.71;t;f;31;5;19.5;16.1;6.61
+31;Blue Label Canned Tuna in Oil;Blue Label;93;17.2;15.2;t;f;28;12;19.7;13.6;3.63
+32;Blue Label Large Canned Shrimp;Blue Label;94;8.86;6.85;f;f;2;11;8.73;3.34;13.1
+33;Blue Label Fancy Canned Anchovies;Blue Label;95;8.27;6.27;f;t;16;5;5.9;9.12;17.7
+34;Blue Label Fancy Canned Clams;Blue Label;96;16.7;14.7;t;t;30;9;20.6;14.4;11.9
+35;Blue Label Fancy Canned Oysters;Blue Label;97;18.2;16.2;f;t;23;5;8.28;7.87;6.27
+36;Blue Label Fancy Canned Sardines;Blue Label;98;14;11;t;f;26;5;17.4;16.7;19.4
+37;Blue Label Rice Soup;Blue Label;58;21;19;t;t;9;6;15.4;17.5;6.65
+38;Green Ribbon Canned Mixed Fruit;Green Ribbon;3;14;11;t;t;32;8;11.1;17.2;5.74
+39;Green Ribbon Canned Peaches;Green Ribbon;3;17.5;15.5;t;f;5;7;10.8;17.7;9.04
+40;King Rosy Sunglasses;King;89;11.7;10.6;t;f;25;13;15.7;12.1;7.7
+41;Queen Eyeglass Screwdriver;Queen;103;8.61;5.6;t;f;29;12;18.3;6.34;8.7
+42;Queen City Map;Queen;102;13.6;11.6;t;f;6;10;3.46;5.58;17.1
+43;Club Low Fat Cottage Cheese;Club;15;17.7;15.7;t;f;33;11;15.4;3.71;10.7
+44;Club Low Fat Sour Cream;Club;14;10.7;9.69;f;t;26;5;21.1;17.9;7.32
+45;Club Sour Cream;Club;14;13.6;11.6;f;f;9;11;8.57;7.31;3.27
+46;Club Jack Cheese;Club;11;14.4;12.3;t;f;19;7;12.7;20.9;7.42
+47;Club Muenster Cheese;Club;11;17.8;15.7;t;f;21;13;22.3;7.03;13.2
+48;Club String Cheese;Club;11;6.31;3.3;t;t;17;7;5.22;18.7;11.2
+49;Club Low Fat String Cheese;Club;11;17;15;f;f;30;12;22.8;6.48;4.65
+50;Club Havarti Cheese;Club;11;9.95;7.94;f;t;36;9;9.91;22.9;6.24
+51;Club Head Cheese;Club;11;8.41;5.4;f;t;9;11;13.1;7.54;18.6
+52;Club Cheese Spread;Club;11;14.5;13.5;t;t;27;13;7.4;10.4;6.06
+53;Club Sharp Cheddar Cheese;Club;11;18.8;16.7;t;t;18;9;21.6;18.8;6.58
+54;Club Mild Cheddar Cheese;Club;11;9.58;7.57;f;t;15;14;15.9;11.7;3.87
+55;Club Large Curd Cottage Cheese;Club;15;14.3;12.3;t;f;20;7;12.3;16.8;14.2
+56;Club 2% Milk;Club;76;20.6;18.6;t;f;21;7;4.1;15.3;11.6
+57;Club Buttermilk;Club;76;20.1;18.1;f;f;33;6;13.5;8.69;16.7
+58;Club Chocolate Milk;Club;76;15.5;13.5;f;f;18;12;10.7;15;13.1
+59;Club 1% Milk;Club;76;18.8;15.7;f;f;1;6;5.57;16.3;22.1
+60;Club Whole Milk;Club;76;7.03;5.03;f;f;2;6;4.42;13.3;20.8
+61;Club Strawberry Yogurt;Club;6;13.4;11.3;f;t;22;12;16.3;11.5;13.8
+62;Club Blueberry Yogurt;Club;6;14.1;11.1;f;t;32;8;11;17.4;5.51
+63;Red Spade Chicken Hot Dogs;Red Spade;81;20.3;18.2;t;t;21;6;4.41;15.9;17.9
+64;Red Spade Pimento Loaf;Red Spade;91;13.2;12.1;t;f;33;6;18.1;17.6;12.4
+65;Red Spade Beef Bologna;Red Spade;91;10.3;9.3;f;t;21;12;4.44;8.8;22.7
+66;Red Spade Low Fat Bologna;Red Spade;91;11.9;8.89;t;t;31;9;5;19.1;14.1
+67;Red Spade Turkey Hot Dogs;Red Spade;81;6.15;4.15;f;t;27;12;19.9;7.96;10.3
+68;Red Spade Foot-Long Hot Dogs;Red Spade;81;16;14;t;t;2;13;20.2;10;4.12
+69;Red Spade Low Fat Cole Slaw;Red Spade;16;16.7;14.7;t;t;6;11;6.13;3.69;3.28
+70;Red Spade Cole Slaw;Red Spade;16;8.83;6.82;f;f;6;13;16.9;12.2;12.6
+71;Red Spade Roasted Chicken;Red Spade;77;21.8;20.7;f;f;7;12;4.55;5.69;7.95
+72;Red Spade Corned Beef;Red Spade;8;20.2;17.2;f;t;6;6;20.8;11.4;15.2
+73;Red Spade Sliced Turkey;Red Spade;8;19.1;16.1;f;f;22;11;15.9;9.46;4.95
+74;Red Spade Sliced Ham;Red Spade;8;6.13;5.13;f;t;5;7;3.38;18.8;20.8
+75;Red Spade Potato Salad;Red Spade;16;16.9;14.8;f;t;26;11;18.1;8.74;11.9
+76;Red Spade Sliced Chicken;Red Spade;8;18.1;17.1;f;t;4;7;14.6;13.5;3.42
+77;Blue Medal Small Brown Eggs;Blue Medal;66;14.7;12.6;f;t;13;12;20;10.2;8.86
+78;Blue Medal Large Brown Eggs;Blue Medal;66;19.5;17.5;t;t;3;6;8.29;14.2;9.13
+79;Blue Medal Small Eggs;Blue Medal;66;12.4;10.3;f;t;9;8;15.3;10.7;10.7
+80;Blue Medal Large Eggs;Blue Medal;66;17.1;14.1;f;f;31;12;12.8;9.1;11.1
+81;Blue Medal Egg Substitute;Blue Medal;66;17;15;f;f;35;7;12.8;18.2;10.5
+82;Golden Low Fat Waffles;Golden;34;21.3;18.2;f;t;25;13;7.06;6.61;11
+83;Golden Orange Popsicles;Golden;110;18;17;t;f;11;10;10.7;3.3;21.5
+84;Golden Frozen Chicken Breast;Golden;100;14.6;11.6;f;f;3;10;4.7;3.34;4.44
+85;Golden Frozen Pancakes;Golden;29;7.12;5.11;f;t;29;11;9.53;3.09;16.1
+86;Golden Low Fat French Fries;Golden;63;14.2;13.1;f;t;3;8;8.7;21.7;10.7
+87;Golden Frozen Sausage Pizza;Golden;64;19;17;t;f;19;6;15.2;21.2;18.6
+88;Golden Blueberry Waffles;Golden;34;7.86;6.86;t;f;6;12;10.5;12.9;18.9
+89;Golden Fajita French Fries;Golden;63;20.5;17.5;f;f;4;7;14;20.7;14.4
+90;Golden Waffles;Golden;34;10.2;8.19;f;t;2;12;15.1;8.08;19.5
+91;Golden Frozen Pepperoni Pizza;Golden;64;12.8;10.8;t;t;17;12;8.94;4.08;3.08
+92;Golden Frozen Cheese Pizza;Golden;64;17.1;16.1;t;f;25;5;4.09;16.8;18.6
+93;Golden Frozen Mushroom Pizza;Golden;64;16.4;14.3;t;f;21;12;3.11;11.5;13.1
+94;Golden Apple Cinnamon Waffles;Golden;34;7.9;4.9;t;f;1;9;10.5;20.9;8.15
+95;Golden Frozen Carrots;Golden;60;8.58;5.57;t;f;29;9;16.6;3.52;22.3
+96;Golden Turkey TV Dinner;Golden;10;10.7;9.69;t;t;35;8;17.5;21.7;13.5
+97;Golden Chicken TV Dinner;Golden;10;18.3;16.2;t;f;26;7;16.4;16.9;5.55
+98;Golden Beef TV Dinner;Golden;10;9.43;6.43;f;f;33;11;4.38;3.28;15.2
+99;Golden Pancake Mix;Golden;28;8.83;6.82;t;t;29;13;21.7;17.9;14.7
+100;Golden Grape Popsicles;Golden;110;9.49;8.48;t;t;6;7;9.3;16.1;6.34
+101;Golden Home Style French Fries;Golden;63;20.6;18.6;f;t;13;6;7.8;13.8;7.22
+102;Golden Lime Popsicles;Golden;110;18.2;17.2;f;t;16;10;6.01;18.3;14.8
+103;Golden Ice Cream;Golden;9;9.81;8.81;t;f;13;8;6.22;15.8;11.8
+104;Golden Ice Cream Sandwich;Golden;9;12.3;10.3;f;t;11;8;9.93;17.4;17.9
+105;Golden Frozen Cauliflower;Golden;60;6.16;4.15;t;f;21;11;22.7;9.49;4.28
+106;Golden Frozen Broccoli;Golden;60;14.6;11.6;t;t;36;6;17.4;14.7;18.5
+107;Golden Frozen Corn;Golden;60;19.9;18.8;f;f;25;11;4.91;8.76;11.2
+108;Golden Frozen Peas;Golden;60;11.9;9.89;t;t;34;6;8.69;9.67;20.5
+109;Golden Popsicles;Golden;9;19;16;f;f;11;12;6.69;10.4;7.67
+110;Golden Frozen Chicken Thighs;Golden;100;12;10;t;t;34;13;22.3;10.2;6.75
+111;Golden Frozen Chicken Wings;Golden;100;15.4;13.3;t;t;17;12;22;10.7;10
+112;Golden Lemon Popsicles;Golden;110;9.35;7.35;f;t;35;5;21.9;15;13.8
+113;Faux Products Silky Smooth Hair Conditioner;Faux Products;78;19.7;17.7;t;f;8;12;14.5;8.23;15
+114;Faux Products Tartar Control Toothpaste;Faux Products;39;20.6;19.6;f;f;31;11;19.1;10.5;9.73
+115;Faux Products Whitening Toothpast;Faux Products;39;20.6;18.6;t;f;33;13;10.6;11.7;9.62
+116;Faux Products Toothpaste;Faux Products;39;8.33;5.32;t;f;8;10;7.45;20.8;13.4
+117;Faux Products Deodorant;Faux Products;39;9.24;7.23;f;f;31;10;12;3.12;8.19
+118;Faux Products Conditioning Shampoo;Faux Products;79;8.27;6.27;t;f;20;13;8.55;14.1;3.48
+119;Faux Products Extra Moisture Shampoo;Faux Products;79;20.1;19.1;f;f;7;12;7.86;8.33;14.7
+120;Faux Products Angled Toothbrush;Faux Products;88;12.9;9.89;f;f;23;13;9.99;5.6;22
+121;Faux Products Apricot Shampoo;Faux Products;79;11.6;8.6;t;f;21;11;21.4;6.61;22.4
+122;Faux Products Childrens Aspirin;Faux Products;70;12.5;10.5;f;f;9;10;6.11;8.89;17.1
+123;Faux Products Buffered Aspirin;Faux Products;70;12.4;9.39;f;f;21;7;3.1;17.5;22.6
+124;Faux Products 200 MG Ibuprofen;Faux Products;71;13.3;10.3;t;f;8;11;7.72;19.7;17.3
+125;Faux Products 200 MG Acetominifen;Faux Products;72;11.1;9.1;f;f;31;11;15.1;5.18;8.03
+126;Faux Products HCL Nasal Spray;Faux Products;73;20.8;19.7;t;f;22;6;21.3;18;5.03
+127;Faux Products Dishwasher Detergent;Faux Products;73;16.7;13.7;t;f;10;14;20.6;12.2;16.3
+128;Faux Products Multi-Symptom Cold Remedy;Faux Products;75;14.5;12.5;f;f;26;5;8.09;17.6;7.02
+129;Faux Products Childrens Cold Remedy;Faux Products;75;9.49;7.48;t;f;23;13;14.2;10.6;3.49
+130;Faux Products Laundry Detergent;Faux Products;74;21.3;20.2;t;f;10;12;13.5;4.82;14.7
+131;Faux Products Mint Mouthwash;Faux Products;74;19.1;16.1;f;f;26;13;20.9;10.2;5.48
+132;Denny 60 Watt Lightbulb;Denny;80;20;18;t;f;14;12;5.59;12.5;20.2
+133;Denny Plastic Forks;Denny;56;14;12;f;f;3;6;16.7;15.4;12
+134;Denny Plastic Spoons;Denny;56;6.83;4.82;t;f;18;7;18.8;12.6;19.3
+135;Denny Plastic Knives;Denny;56;7.74;4.73;f;f;6;6;3.51;14.9;14
+136;Denny C-Size Batteries;Denny;101;17.4;15.3;f;f;33;10;9.7;7.86;11
+137;Denny 100 Watt Lightbulb;Denny;80;13.3;11.3;t;f;13;11;9.01;22;22.3
+138;Denny AAA-Size Batteries;Denny;101;12.3;10.3;t;f;7;13;16.3;7.58;12.5
+139;Denny Paper Plates;Denny;55;21.1;19.1;f;f;16;10;18.5;4.85;19.7
+140;Denny Paper Cups;Denny;55;6.03;4.03;f;f;4;10;3.14;7.13;14.5
+141;Denny 75 Watt Lightbulb;Denny;80;15.7;13.6;t;f;2;8;9.33;20;11.5
+142;Denny Toilet Bowl Cleaner;Denny;22;8.48;6.47;f;f;11;5;11.4;17.2;18.7
+143;Denny Counter Cleaner;Denny;22;9.39;7.39;f;f;5;8;16;19.5;13.4
+144;Denny Glass Cleaner;Denny;22;20.3;18.2;t;f;2;7;22.2;12.6;9.96
+145;Denny 25 Watt Lightbulb;Denny;80;21.2;20.2;f;f;25;6;6.82;14.9;4.67
+146;Denny AA-Size Batteries;Denny;101;14;12;t;f;35;12;8.95;12.1;11.9
+147;Denny D-Size Batteries;Denny;101;13;12;t;f;29;10;5.44;3.22;7.24
+148;Denny Paper Towels;Denny;18;8.94;6.93;t;f;17;9;4.75;17.3;18.5
+149;Denny Soft Napkins;Denny;18;17.6;16.6;t;f;27;6;6.87;14.6;5.81
+150;Denny Scented Tissue;Denny;18;18.6;16.6;t;f;15;14;11.4;16.9;20.5
+151;Denny Toilet Paper;Denny;18;12.3;10.3;t;f;12;13;17.6;9.81;17.5
+152;Denny Tissues;Denny;18;17.2;15.2;t;f;31;13;19.9;6.55;6.38
+153;Denny Scented Toilet Tissue;Denny;18;18.1;17.1;f;f;19;12;4.6;8.83;21
+154;Denny Room Freshener;Denny;20;16.8;13.7;t;f;16;11;16.1;9.84;21.5
+155;Denny Frying Pan;Denny;40;20.6;18.6;t;f;26;8;12.9;18.9;5.37
+156;Denny Copper Cleaner;Denny;87;21.5;19.5;f;f;20;11;17.5;21.2;20
+157;Denny Bees Wax Candles;Denny;47;20.2;18.2;t;f;18;9;9.04;22.2;20.5
+158;Denny Silver Cleaner;Denny;87;21.1;18.1;f;f;5;8;13.6;4.56;15.2
+159;Denny Copper Pot Scrubber;Denny;86;10.1;8.1;f;f;14;5;10.4;13.8;18.5
+160;Denny Economy Toilet Brush;Denny;85;9.18;7.18;f;f;3;9;6.91;4.92;13.8
+161;Denny Scissors;Denny;41;10;8;t;f;32;11;11.5;7.21;8.55
+162;Denny Large Sponge;Denny;42;13.8;10.8;t;f;6;8;8.34;16.3;12.4
+163;Denny Screw Driver;Denny;41;14.7;11.6;f;f;4;7;12.9;18.6;7.11
+164;Ship Shape Extra Lean Hamburger;Ship Shape;65;13.4;11.3;t;t;27;6;4.46;19.6;7.53
+165;Ship Shape Seasoned Hamburger;Ship Shape;65;8.26;6.26;f;f;31;10;9.36;3.99;16
+166;Robust Monthly Sports Magazine;Robust;104;11.2;10.1;t;f;31;6;6.67;18.9;14.4
+167;Robust Monthly Auto Magazine;Robust;108;14.4;13.3;f;f;6;11;13.8;5.88;18.3
+168;Robust Monthly Computer Magazine;Robust;107;10.4;8.39;f;f;23;11;11.6;8.92;9.67
+169;Robust Monthly Home Magazine;Robust;105;19.5;17.5;t;f;29;11;17.2;5.11;11.8
+170;Robust Monthly Fashion Magazine;Robust;106;9.56;8.56;f;f;23;9;5.74;4.41;9.95
+171;High Top Summer Squash;High Top;61;18.7;17.7;f;f;30;9;11.3;20.6;12
+172;High Top Corn on the Cob;High Top;61;16.1;14.1;f;t;3;8;12.3;18.4;4.75
+173;High Top Asparagus;High Top;61;21.9;20.8;f;f;13;13;22;9.15;7.34
+174;High Top Sweet Peas;High Top;61;13.4;11.3;t;f;22;8;12.3;21;21.8
+175;High Top New Potatos;High Top;61;6.82;4.82;t;t;16;8;13;15.4;13.2
+176;High Top Beets;High Top;61;12.1;10.1;t;f;29;7;10.4;14.9;8.42
+177;High Top Prepared Salad;High Top;61;10.5;8.5;f;f;19;14;5;16.2;3.3
+178;High Top Onions;High Top;61;19.5;16.5;t;t;25;7;20.3;18.2;12.3
+179;High Top Green Pepper;High Top;61;19.7;18.7;f;t;2;6;3.93;15.1;21.6
+180;High Top Shitake Mushrooms;High Top;61;12.3;11.3;f;f;17;9;17.3;18.2;10.9
+181;High Top Lettuce;High Top;61;16.1;14.1;f;t;23;5;16.1;15.1;14.5
+182;High Top Elephant Garlic;High Top;61;9.05;6.05;f;t;11;12;13.2;6.07;13.5
+183;High Top Red Pepper;High Top;61;7.06;5.05;t;f;22;8;4.13;19.5;18.6
+184;High Top Garlic;High Top;61;20;18;t;t;22;13;22.7;11.8;6.41
+185;High Top Potatos;High Top;61;9.3;7.3;t;f;24;12;11.4;8.03;4.14
+186;High Top Cauliflower;High Top;61;18.7;17.7;f;f;20;7;9.53;13.4;8.09
+187;High Top Tomatos;High Top;61;14.8;13.8;f;t;15;6;12.6;13.4;3.67
+188;High Top Mushrooms;High Top;61;14.7;11.6;t;t;14;8;22.3;19.2;10.6
+189;High Top Baby Onion;High Top;61;8.51;6.51;t;f;4;13;5.62;8.03;21.8
+190;High Top Dried Mushrooms;High Top;61;18.7;17.7;t;t;29;6;9.59;17.9;5.47
+191;High Top Fresh Lima Beans;High Top;61;12.6;9.6;t;f;22;7;19.9;14.4;16.7
+192;High Top Squash;High Top;61;10.7;7.69;f;t;4;7;20.3;15.6;14.2
+193;High Top Limes;High Top;99;11.8;9.8;t;f;11;13;8.64;14.9;18.3
+194;High Top Firm Tofu;High Top;67;11.6;8.6;t;t;21;11;18.8;7.38;10.2
+195;High Top Almonds;High Top;1;8.72;6.72;f;t;24;13;17.6;13;10.4
+196;High Top Macintosh Apples;High Top;99;12.1;10.1;t;t;27;10;7.29;19.1;16.2
+197;High Top Golden Delcious Apples;High Top;99;21.5;19.5;f;t;29;7;15.4;18.9;17.6
+198;High Top Red Delcious Apples;High Top;99;17.2;14.2;t;t;27;13;6.26;7.83;5.92
+199;High Top Lemons;High Top;99;19.2;18.2;t;f;33;10;19.8;4.92;4.65
+200;High Top Fancy Plums;High Top;99;6.74;4.73;f;f;12;6;8.38;17.6;20.4
+201;High Top Plums;High Top;99;14.7;12.6;f;f;29;14;10.8;11.8;7.33
+202;High Top Peaches;High Top;99;11.8;8.8;f;f;24;6;6.61;10.7;10.1
+203;High Top Broccoli;High Top;61;8.85;5.85;t;f;27;5;6.17;12;10.3
+204;High Top Mandarin Oranges;High Top;99;13.6;10.6;f;f;31;7;22.6;17;20.7
+205;High Top Mixed Nuts;High Top;1;13.9;11.8;t;f;9;5;4.96;11.8;5
+206;High Top Canned Peanuts;High Top;1;10.9;7.89;f;t;15;7;22.6;19.6;17.8
+207;High Top Sweet Onion;High Top;61;13.5;11.5;t;t;7;14;16;17.8;11.3
+208;High Top Cantelope;High Top;99;13.4;10.3;t;t;23;6;6.06;21.4;8.32
+209;High Top Honey Dew;High Top;99;17.3;15.2;t;f;16;6;7.99;18.6;21.4
+210;High Top Fuji Apples;High Top;99;17;14;f;t;27;10;16.1;4.23;13.8
+211;High Top Walnuts;High Top;1;14.5;12.5;t;f;1;7;4.6;12.1;14
+212;High Top Oranges;High Top;99;9.78;7.77;f;f;14;9;13.1;4.27;12.3
+213;High Top Tangerines;High Top;99;7.22;5.21;t;f;11;11;4.08;7.71;7.56
+214;High Top Party Nuts;High Top;1;21.6;19.6;t;t;18;13;8.56;14.5;4.93
+215;Tip Top Lox;Tip Top;24;14.1;11.1;t;f;10;13;12.1;12;11.6
+216;Tip Top Scallops;Tip Top;2;21.3;20.2;t;t;22;7;18.3;18.3;6.31
+217;Best Choice Low Fat Cookies;Best Choice;45;16;14;t;f;21;13;14.4;10.5;22.3
+218;Best Choice BBQ Potato Chips;Best Choice;12;16.2;14.2;f;f;13;6;19.8;12;4.03
+219;Best Choice Corn Chips;Best Choice;12;20.6;18.6;t;t;15;12;22.4;14.8;7.04
+220;Best Choice Low Fat BBQ Chips;Best Choice;12;12.2;10.1;f;t;7;7;12.5;17.8;6.56
+221;Best Choice Sugar Cookies;Best Choice;45;15.2;13.1;f;f;36;14;8.6;10.5;20
+222;Best Choice Chocolate Chip Cookies;Best Choice;45;15;12;f;t;29;9;19.9;16.3;21.9
+223;Best Choice Fudge Cookies;Best Choice;45;20.3;19.2;t;f;36;6;7.02;12.5;4.67
+224;Best Choice Fudge Brownies;Best Choice;45;8.24;6.23;f;f;32;7;10.6;14.2;10.2
+225;Best Choice Potato Chips;Best Choice;12;19.8;16.7;f;f;7;5;11.5;17.5;15.9
+226;Best Choice Lemon Cookies;Best Choice;45;10.4;7.39;t;t;22;13;18.1;11.6;10.7
+227;Best Choice Graham Crackers;Best Choice;45;15.7;14.6;f;t;12;9;5.65;5.62;3.49
+228;Best Choice Cheese Crackers;Best Choice;82;8.71;6.71;f;t;11;14;22.6;7.63;7.58
+229;Best Choice Buttered Popcorn;Best Choice;54;13.6;10.6;f;f;33;10;7.48;7.12;20.4
+230;Best Choice No Salt Popcorn;Best Choice;54;14.7;12.6;t;t;21;12;5.64;11.9;6.97
+231;Best Choice Low Fat Popcorn;Best Choice;54;10;8;f;f;30;11;22.8;7.41;22.8
+232;Best Choice Salsa Dip;Best Choice;83;16.1;15.1;f;f;16;9;17.4;3.75;22.6
+233;Best Choice Avocado Dip;Best Choice;83;18.6;16.6;t;f;1;9;12.4;21.9;11.2
+234;Best Choice Salted Pretzels;Best Choice;46;14.4;12.3;f;t;17;5;22.1;17.5;9.5
+235;Best Choice Cheese Dip;Best Choice;83;11.5;8.5;f;f;35;10;7.91;22;14.7
+236;Best Choice Fondue Mix;Best Choice;83;10.8;8.8;f;t;7;13;17;11.1;6.88
+237;Best Choice Mini Donuts;Best Choice;84;21.6;19.6;t;t;23;14;12;9.93;12.8
+238;Best Choice Beef Jerky;Best Choice;17;8.17;5.17;f;t;32;8;17;13.7;3.98
+239;Best Choice Chocolate Donuts;Best Choice;84;16.5;14.5;t;t;5;14;22.7;17.9;10.7
+240;Best Choice Low Fat Chips;Best Choice;12;7.13;6.13;f;t;33;12;5.62;5.04;10.9
+241;Best Choice Sesame Crackers;Best Choice;82;21.5;20.5;t;f;24;9;20.2;6.32;5.83
+242;Best Choice Frosted Cookies;Best Choice;45;9.51;7.51;f;t;23;8;10.1;20.1;11.4
+243;Best Choice Dried Apples;Best Choice;109;6.6;3.59;t;t;6;11;16.6;20.2;16.7
+244;Best Choice Apple Fruit Roll;Best Choice;109;7.29;4.28;t;t;22;5;12.5;8.36;13.4
+245;Best Choice Strawberry Fruit Roll;Best Choice;109;9.9;6.89;f;f;19;6;5.81;17.6;12
+246;Best Choice Raspberry Fruit Roll;Best Choice;109;18.8;17.7;t;f;22;7;22.9;8.59;11.1
+247;Best Choice Grape Fruit Roll;Best Choice;109;13;10;f;f;17;9;8.47;14.1;12.1
+248;Best Choice Dried Dates;Best Choice;109;14.7;12.6;t;t;26;10;7.37;4.48;8.54
+249;Best Choice Raisins;Best Choice;109;20;18;f;f;28;9;16.1;20.6;6.27
+250;Best Choice Golden Raisins;Best Choice;109;13.4;12.3;f;f;18;9;14.2;6.05;10.2
+251;Best Choice Dried Apricots;Best Choice;109;18.6;16.6;f;f;14;12;3.88;6.7;22.9
+252;Best Choice Frosted Donuts;Best Choice;84;20.7;17.7;f;f;2;6;6.65;13.7;4.18
+253;Choice Tasty Candy Bar;Choice;36;18.2;15.2;f;t;34;14;15.3;10.5;19.3
+254;Choice Mint Chocolate Bar;Choice;36;11.6;8.6;f;t;33;7;6.13;19.3;8.18
+255;Choice Malted Milk Balls;Choice;36;8.65;6.64;f;t;34;6;13.6;12.7;3.48
+256;Choice Semi-Sweet Chocolate Bar;Choice;36;21.7;20.7;t;f;28;14;10;18.3;11.2
+257;Choice Bubble Gum;Choice;37;6.89;5.88;f;t;5;5;18.2;17.6;15.3
+258;Choice Spicy Mints;Choice;38;18.6;16.6;t;f;27;7;7.26;17.5;13.5
+259;Choice Mints;Choice;38;18.4;17.3;t;f;20;14;7.38;15.6;7.96
+260;Choice White Chocolate Bar;Choice;36;21.9;18.8;f;f;16;7;17;21.6;13.7
+261;Medalist Ravioli;Medalist;5;17.5;14.5;t;f;5;6;9.16;17.2;4.39
+262;Medalist Manicotti;Medalist;5;21;20;t;f;31;9;17.4;21.1;5.19
+263;Medalist Spaghetti;Medalist;5;13.9;11.8;t;f;1;7;4.53;17.5;6.78
+264;Medalist Thai Rice;Medalist;57;18.7;16.7;t;t;24;6;22;15.9;7.16
+265;Medalist Rice Medly;Medalist;57;10.7;9.69;t;t;6;13;4.52;10.1;14
+266;Good Imported Beer;Good;43;6.89;5.88;f;f;13;12;16.2;13.4;7.12
+267;Good Light Wine;Good;44;6.98;4.98;f;f;24;5;14.6;13.4;12.1
+268;Good Chardonnay Wine;Good;44;9.26;7.26;f;f;20;13;6.06;14.7;11.4
+269;Good Chablis Wine;Good;44;10.5;8.5;f;f;12;13;9.88;22.3;21.4
+270;Good Merlot Wine;Good;44;9.71;6.71;t;f;35;13;4.16;6.7;16.6
+271;Good Chardonnay;Good;44;12;9;t;f;31;12;15.6;7.97;15.9
+272;Good White Zinfandel Wine;Good;44;7.07;6.07;t;f;2;10;8.64;19.8;17.5
+273;Good Light Beer;Good;43;9.35;6.35;f;f;33;8;20;21.1;16.8
+274;Great Pumpernickel Bread;Great;27;8.5;7.5;f;t;21;9;14.3;5.48;12.1
+275;Great White Bread;Great;27;17.4;14.3;t;f;35;11;12.6;14.2;18.5
+276;Great Rye Bread;Great;27;6.2;5.19;t;t;11;8;9.13;19.2;8.96
+277;Great English Muffins;Great;26;11.5;9.5;f;t;24;6;16.7;22.1;16.6
+278;Great Cranberry Muffins;Great;26;8.55;5.55;t;t;2;7;14.4;9.99;9.49
+279;Great Muffins;Great;26;6.44;5.44;f;t;18;5;7.53;10.1;14.5
+280;Great Bagels;Great;25;6.29;3.28;f;f;34;7;17.5;13.7;11.4
+281;Great Blueberry Muffins;Great;26;10.1;8.1;t;t;28;6;19.4;10.9;4.61
+282;Great Wheat Bread;Great;27;13.6;11.6;t;f;30;7;7.43;17;15.4
+283;Super Sesame Oil;Super;49;17.5;14.5;t;t;3;13;21.1;13.1;18.4
+284;Super Chunky Peanut Butter;Super;53;7.71;5.71;f;t;22;9;4.45;17.2;13.4
+285;Super Hot Chocolate;Super;51;9.85;7.85;f;t;28;7;15.6;18.7;17.1
+286;Super Brown Sugar;Super;50;8.25;7.25;t;f;35;9;20.1;5.57;14.5
+287;Super White Sugar;Super;50;11.7;10.6;t;t;21;5;18.3;14.9;17.8
+288;Super French Roast Coffee;Super;90;18.9;16.8;f;f;33;8;4.62;21.2;12.4
+289;Super Decaf Coffee;Super;90;7.96;5.96;f;f;16;10;9.75;20.5;20.8
+290;Super Regular Coffee;Super;90;6.09;3.09;t;f;14;5;12.3;14.9;21.3
+291;Super Vegetable Oil;Super;49;9.24;7.23;f;f;32;11;9.32;22.9;10.3
+292;Super Corn Oil;Super;49;7.64;5.63;f;t;23;8;3.9;4.2;5.24
+293;Super Tomato Sauce;Super;48;10.6;8.6;f;f;5;9;9.82;22.4;21.1
+294;Super Canola Oil;Super;49;10.9;7.89;f;t;30;10;13.4;19.4;10.4
+295;Super Grape Preserves;Super;33;9.4;8.39;t;t;21;13;16.2;6.24;12.8
+296;Super Columbian Coffee;Super;90;11;8;t;f;36;7;5.45;19.9;21.7
+297;Super Strawberry Jelly;Super;31;17.4;14.3;f;t;26;8;17.4;18.1;14.7
+298;Super Pepper;Super;4;17.7;15.7;f;t;34;11;19.3;9.38;8.49
+299;Super Low Fat Apple Butter;Super;33;16.6;14.6;f;f;27;12;15;14;3.22
+300;Super Salt;Super;4;16.8;14.7;t;f;5;8;8.62;16.5;15
+301;Super Apple Butter;Super;33;10.8;8.8;f;t;22;13;18.4;6.37;21.3
+302;Super Oregano;Super;4;13.7;11.6;t;f;26;7;5.84;15.7;17.2
+303;Super Apple Jelly;Super;31;13.6;11.6;t;t;32;8;5.96;13.7;11.7
+304;Super Grape Jam;Super;32;10.1;8.1;t;f;24;10;22.1;20.4;14.6
+305;Super Apple Jam;Super;32;6.72;5.71;f;t;4;10;7.47;17.2;20.1
+306;Super Strawberry Jam;Super;32;16.5;14.5;f;t;29;13;21;9.34;3.8
+307;Super Creamy Peanut Butter;Super;53;18.2;15.2;f;t;9;10;9.67;16.3;7.67
+308;Super Strawberry Preserves;Super;33;8.82;7.81;f;t;24;10;15.3;6.02;7.47
+309;Super Extra Chunky Peanut Butter;Super;53;18.7;17.7;t;t;6;13;5.92;11.4;13.7
+310;Super Apple Preserves;Super;33;10.8;8.8;t;t;29;11;16.4;22.2;13.1
+311;Super Grape Jelly;Super;31;9.67;8.67;f;f;5;9;13.2;20.2;17.8
+312;Excellent Berry Juice;Excellent;30;12.6;10.6;t;f;2;12;12.4;8.55;3.71
+313;Excellent Mango Drink;Excellent;52;7.12;5.11;f;t;16;12;4.89;3.73;10.4
+314;Excellent Strawberry Drink;Excellent;52;9.26;7.26;f;t;22;10;16;5.25;14.1
+315;Excellent Cream Soda;Excellent;19;15.5;14.5;f;f;29;12;18;7.06;4.09
+316;Excellent Diet Soda;Excellent;19;7.28;5.28;t;f;22;9;16.8;4.27;21.6
+317;Excellent Cola;Excellent;19;13.1;11.1;t;f;22;14;7.56;10.2;19.8
+318;Excellent Diet Cola;Excellent;19;17.8;16.7;t;f;8;12;9.17;10.5;13.3
+319;Excellent Orange Juice;Excellent;30;9.58;7.57;f;f;6;12;7.97;7.76;10.9
+320;Excellent Cranberry Juice;Excellent;30;16.4;14.3;f;f;14;12;13.6;3.87;13.7
+321;Excellent Apple Juice;Excellent;30;13.2;12.1;t;f;13;13;17.7;9.2;14.7
+322;Excellent Apple Drink;Excellent;52;12.8;10.8;f;f;28;8;14;21.3;4.84
+323;Best Oatmeal;Best;35;15.4;12.3;f;t;19;6;7.44;19.6;18.4
+324;Best Corn Puffs;Best;35;7.43;5.42;f;f;13;9;19.9;8.22;22.8
+325;Best Wheat Puffs;Best;35;19.1;18.1;t;f;29;7;19.3;20.4;8.52
+326;Best Grits;Best;35;8.87;6.86;t;f;5;11;20.4;7.75;13.6
+327;Better Canned Beets;Better;62;8.6;7.6;f;t;26;10;18.5;18.8;8.49
+328;Better Creamed Corn;Better;62;11.6;10.6;t;f;26;9;4.6;5.99;19.4
+329;Better Canned String Beans;Better;62;10.9;8.89;t;t;22;8;3.61;20.6;14
+330;Better Chicken Soup;Better;58;7.47;5.46;f;f;8;7;19.9;16.2;11.9
+331;Better Canned Yams;Better;62;15.9;13.8;f;f;22;14;3.51;13.7;18.7
+332;Better Vegetable Soup;Better;58;9.36;7.35;f;f;25;8;22.8;21.3;7.64
+333;Better Canned Tomatos;Better;62;17.9;16.8;f;t;33;14;5.86;12.2;9.37
+334;Better Noodle Soup;Better;58;9;8;t;f;26;7;13.7;18.5;19
+335;Better Regular Ramen Soup;Better;58;8.73;6.72;t;f;17;13;6.99;17.7;8.37
+336;Better Chicken Noodle Soup;Better;58;13.1;11.1;t;f;2;10;19.9;3.92;3.89
+337;Better Turkey Noodle Soup;Better;58;8.34;7.34;t;t;9;10;18.4;21.6;4.76
+338;Better Beef Soup;Better;58;16.9;14.8;t;f;6;10;11.3;18;8.98
+339;Better Canned Peas;Better;62;21.3;19.2;t;t;31;9;14.3;18.6;22
+340;Better Chicken Ramen Soup;Better;58;16;13;t;t;6;12;20.5;5.21;15.5
+341;Better Canned Tuna in Water;Better;93;21.7;19.7;f;f;19;6;22.9;19.2;3
+342;Better Canned Tuna in Oil;Better;93;14.2;13.1;t;t;26;11;17.7;4.6;17.2
+343;Better Large Canned Shrimp;Better;94;8.55;6.55;f;f;29;10;10.5;6.7;13.3
+344;Better Fancy Canned Anchovies;Better;95;10.5;7.5;t;t;24;5;14;9.34;14.6
+345;Better Fancy Canned Clams;Better;96;17.6;16.6;t;t;36;12;12;10.1;21.7
+346;Better Fancy Canned Oysters;Better;97;15.6;12.6;f;f;30;8;12.9;18;4.3
+347;Better Fancy Canned Sardines;Better;98;11.8;8.8;f;t;7;12;14.2;9.13;9.88
+348;Better Rice Soup;Better;58;7.98;5.98;t;f;25;5;7.29;14.6;7.97
+349;Swell Canned Mixed Fruit;Swell;3;8.62;7.61;f;t;3;7;5.14;16.2;12
+350;Swell Canned Peaches;Swell;3;15.3;12.3;t;f;12;8;9.54;3.6;6.82
+351;ADJ Rosy Sunglasses;ADJ;89;19.6;18.6;t;f;26;8;13.6;17.5;9.84
+352;Black Tie Eyeglass Screwdriver;Black Tie;103;10.6;8.6;f;f;8;7;6.19;12.4;17.6
+353;Black Tie City Map;Black Tie;102;8.78;7.77;t;f;1;14;17.1;16.7;3.26
+354;Carlson Low Fat Cottage Cheese;Carlson;15;9.77;8.77;f;f;8;5;20.2;7.92;17.9
+355;Carlson Low Fat Sour Cream;Carlson;14;12.2;11.1;f;f;17;7;22.2;20.3;14.4
+356;Carlson Sour Cream;Carlson;14;8.79;5.78;t;f;33;6;7.61;17;19.9
+357;Carlson Jack Cheese;Carlson;11;12.2;9.19;t;t;17;6;15.9;20.8;20.7
+358;Carlson Muenster Cheese;Carlson;11;19.3;16.2;f;f;30;10;14.8;6.08;22.9
+359;Carlson String Cheese;Carlson;11;20.9;18.8;t;f;16;6;15.2;7.58;19.2
+360;Carlson Low Fat String Cheese;Carlson;11;9.8;6.8;t;t;20;10;20.4;4.85;22.1
+361;Carlson Havarti Cheese;Carlson;11;14.1;12.1;t;f;15;12;14.7;13.2;22.6
+362;Carlson Head Cheese;Carlson;11;10.8;9.8;f;f;26;9;18.3;9.91;13.1
+363;Carlson Cheese Spread;Carlson;11;8.71;6.71;t;t;22;13;12.2;10.1;15.5
+364;Carlson Sharp Cheddar Cheese;Carlson;11;17.1;15.1;f;f;7;10;17.1;9.87;7.25
+365;Carlson Mild Cheddar Cheese;Carlson;11;11.9;9.89;t;f;29;5;21.6;16.4;5.76
+366;Carlson Large Curd Cottage Cheese;Carlson;15;19.6;16.6;t;f;32;11;20.3;22.7;22.7
+367;Carlson 2% Milk;Carlson;76;11.6;9.6;t;f;27;5;12.9;11.4;7.15
+368;Carlson Buttermilk;Carlson;76;14.4;12.3;f;f;13;12;4.92;9.36;21.2
+369;Carlson Chocolate Milk;Carlson;76;19.4;17.3;f;f;31;13;10;8.6;9.71
+370;Carlson 1% Milk;Carlson;76;6.63;5.63;t;f;35;13;17.9;11.1;13.6
+371;Carlson Whole Milk;Carlson;76;9.78;7.77;t;f;13;5;14.9;19.1;22.6
+372;Carlson Strawberry Yogurt;Carlson;6;14.8;12.8;f;f;30;7;20;18.3;11
+373;Carlson Blueberry Yogurt;Carlson;6;11.9;10.8;t;t;19;13;6.33;9.54;21.3
+374;Moms Chicken Hot Dogs;Moms;81;11.3;10.3;t;f;32;6;13.7;18.6;18.4
+375;Moms Pimento Loaf;Moms;91;18.4;17.3;t;f;27;13;11.5;10.5;10.5
+376;Moms Beef Bologna;Moms;91;12.3;11.3;f;t;3;5;11.8;12.6;4.38
+377;Moms Low Fat Bologna;Moms;91;18;17;f;f;7;12;3.03;14.3;6.97
+378;Moms Turkey Hot Dogs;Moms;81;17.3;16.2;t;t;6;14;3.21;6.91;8.95
+379;Moms Foot-Long Hot Dogs;Moms;81;16.2;14.2;t;f;34;6;18.9;11.5;3.68
+380;Moms Low Fat Cole Slaw;Moms;16;21.4;19.3;t;t;6;7;17.7;22.1;18.9
+381;Moms Cole Slaw;Moms;16;10.3;8.3;t;t;23;12;22.2;3.9;21.7
+382;Moms Roasted Chicken;Moms;77;10.2;8.19;t;t;27;6;12.4;16.3;13.7
+383;Moms Corned Beef;Moms;8;13.2;11.1;t;t;33;7;9.78;11.3;12.1
+384;Moms Sliced Turkey;Moms;8;14.7;12.6;t;t;25;9;11.2;6.15;18.5
+385;Moms Sliced Ham;Moms;8;11.3;9.3;f;f;5;9;16.6;22.8;3.99
+386;Moms Potato Salad;Moms;16;16.9;13.8;t;t;15;10;14.4;9.91;19.5
+387;Moms Sliced Chicken;Moms;8;17.7;16.7;t;f;14;8;19;21.3;13.6
+388;Urban Small Brown Eggs;Urban;66;19.3;17.2;t;t;35;12;19.4;22.8;10
+389;Urban Large Brown Eggs;Urban;66;14.1;12.1;f;f;27;10;14;3.86;6.05
+390;Urban Small Eggs;Urban;66;10.3;8.3;t;f;34;9;5.77;7.19;19.1
+391;Urban Large Eggs;Urban;66;9.21;7.21;f;f;9;7;22.5;5.17;3.87
+392;Urban Egg Substitute;Urban;66;13;10;f;t;29;13;5.84;9.12;19.4
+393;Big Time Low Fat Waffles;Big Time;34;21.5;19.5;t;f;14;9;10.6;8.88;11.1
+394;Big Time Orange Popsicles;Big Time;110;10.4;7.39;t;f;13;12;5.83;11.7;16.5
+395;Big Time Frozen Chicken Breast;Big Time;100;8.3;6.3;t;f;30;6;18.9;11.8;21.5
+396;Big Time Frozen Pancakes;Big Time;29;16.3;14.2;t;f;25;10;11.4;20.4;5.92
+397;Big Time Low Fat French Fries;Big Time;63;12;9;f;f;5;7;10.8;12.6;11.6
+398;Big Time Frozen Sausage Pizza;Big Time;64;15.5;12.5;t;t;7;7;18.8;18.7;22.4
+399;Big Time Blueberry Waffles;Big Time;34;10.2;8.19;f;f;29;7;15.1;19.7;13.4
+400;Big Time Fajita French Fries;Big Time;63;9.57;8.56;t;f;34;10;15.8;18.9;20.4
+401;Big Time Waffles;Big Time;34;13.9;11.8;f;f;30;8;20.1;21.7;18.4
+402;Big Time Frozen Pepperoni Pizza;Big Time;64;9.16;7.15;t;t;8;5;7.49;11.6;11.8
+403;Big Time Frozen Cheese Pizza;Big Time;64;13.6;11.6;t;t;33;6;9.78;16.6;4.85
+404;Big Time Frozen Mushroom Pizza;Big Time;64;6.98;3.98;t;f;35;9;9.14;4.28;13.8
+405;Big Time Apple Cinnamon Waffles;Big Time;34;19.6;17.6;f;f;33;12;13.3;7.65;9.24
+406;Big Time Frozen Carrots;Big Time;60;20.7;18.7;f;f;1;8;22.8;4.74;20.6
+407;Big Time Turkey TV Dinner;Big Time;10;6.35;5.34;f;t;34;9;13.2;20.6;14.5
+408;Big Time Chicken TV Dinner;Big Time;10;15.7;14.6;t;t;19;6;11.5;14.9;13.4
+409;Big Time Beef TV Dinner;Big Time;10;10.9;8.89;t;t;15;11;10;12.6;14.3
+410;Big Time Pancake Mix;Big Time;28;19.8;18.7;f;t;8;7;7.9;19.1;13.4
+411;Big Time Grape Popsicles;Big Time;110;8.25;7.25;t;t;33;6;10.9;19.7;6.45
+412;Big Time Home Style French Fries;Big Time;63;18.9;15.8;t;t;14;12;17.1;6.28;19.9
+413;Big Time Lime Popsicles;Big Time;110;18.4;17.3;t;f;28;6;14.2;12;4.55
+414;Big Time Ice Cream;Big Time;9;19.9;16.8;t;t;3;12;12;19.9;16.3
+415;Big Time Ice Cream Sandwich;Big Time;9;17.4;16.3;t;t;6;10;21.9;18.9;16.5
+416;Big Time Frozen Cauliflower;Big Time;60;7.2;6.19;t;f;21;8;21.7;4.05;16.6
+417;Big Time Frozen Broccoli;Big Time;60;14.2;12.1;t;f;4;9;19.7;4.82;3.76
+418;Big Time Frozen Corn;Big Time;60;13.2;11.1;t;f;15;13;4.8;8.34;15.9
+419;Big Time Frozen Peas;Big Time;60;8.5;6.5;f;f;10;9;22;3.84;11.8
+420;Big Time Popsicles;Big Time;9;20.6;19.6;t;t;29;12;15;9.4;9.94
+421;Big Time Frozen Chicken Thighs;Big Time;100;6.19;4.19;t;f;23;11;16.9;6.53;3.71
+422;Big Time Frozen Chicken Wings;Big Time;100;7.87;5.86;f;t;33;12;16;5.8;15
+423;Big Time Lemon Popsicles;Big Time;110;17.2;15.2;f;t;5;9;5.5;7.84;21.5
+424;Steady Silky Smooth Hair Conditioner;Steady;78;9.65;7.64;t;f;14;7;21.1;17.6;10.7
+425;Steady Tartar Control Toothpaste;Steady;39;9.18;6.18;f;f;29;7;18.9;20.9;20.9
+426;Steady Whitening Toothpast;Steady;39;11.5;10.5;f;f;30;13;8.92;11;20.1
+427;Steady Toothpaste;Steady;39;8.89;5.89;f;f;26;7;13.5;13;16
+428;Steady Deodorant;Steady;39;8.43;7.43;f;f;6;7;11.3;16.3;6.18
+429;Steady Conditioning Shampoo;Steady;79;12;10;t;f;7;13;21.2;6.71;4.93
+430;Steady Extra Moisture Shampoo;Steady;79;11.5;8.5;t;f;32;12;19;10;15
+431;Steady Angled Toothbrush;Steady;88;19.9;18.8;f;f;11;12;18.4;3.9;7.5
+432;Steady Apricot Shampoo;Steady;79;11.3;9.3;f;f;13;9;13.7;22.1;10.2
+433;Steady Childrens Aspirin;Steady;70;10.8;8.8;t;f;28;9;11.5;5.49;20.3
+434;Steady Buffered Aspirin;Steady;70;19.1;18.1;f;f;17;8;10.8;19.3;12.7
+435;Steady 200 MG Ibuprofen;Steady;71;11.8;9.8;t;f;18;6;6.09;17.8;14.9
+436;Steady 200 MG Acetominifen;Steady;72;6.32;4.32;f;f;33;5;18.5;13;21.6
+437;Steady HCL Nasal Spray;Steady;73;19.9;17.8;f;f;14;9;8.21;5.08;12.3
+438;Steady Dishwasher Detergent;Steady;73;19.5;16.5;t;f;35;12;5.99;8.38;22.5
+439;Steady Multi-Symptom Cold Remedy;Steady;75;21.8;20.7;t;f;1;10;15.9;18.5;21.8
+440;Steady Childrens Cold Remedy;Steady;75;19.2;17.2;t;f;26;9;20.6;20.5;17.6
+441;Steady Laundry Detergent;Steady;74;13.7;10.6;t;f;6;8;13.1;15.7;4.37
+442;Steady Mint Mouthwash;Steady;74;21.1;20.1;f;f;8;6;8.4;14;7.08
+443;Red Wing 60 Watt Lightbulb;Red Wing;80;20.6;18.6;t;f;29;10;6.18;17.3;17.2
+444;Red Wing Plastic Forks;Red Wing;56;20.1;18.1;f;f;9;10;20.4;22.5;7.8
+445;Red Wing Plastic Spoons;Red Wing;56;16.5;15.5;t;f;17;11;21;8.96;13.9
+446;Red Wing Plastic Knives;Red Wing;56;11;9;f;f;31;10;13.4;4.14;20.6
+447;Red Wing C-Size Batteries;Red Wing;101;19.4;17.3;t;f;15;6;12.8;18;13
+448;Red Wing 100 Watt Lightbulb;Red Wing;80;15.8;14.8;f;f;23;7;13.4;4.44;19.2
+449;Red Wing AAA-Size Batteries;Red Wing;101;10.3;8.3;t;f;9;10;5.9;19.6;5.93
+450;Red Wing Paper Plates;Red Wing;55;18.9;17.8;f;f;18;10;10.2;3.56;13.2
+451;Red Wing Paper Cups;Red Wing;55;13.4;11.3;t;f;25;11;22.7;18.7;19.9
+452;Red Wing 75 Watt Lightbulb;Red Wing;80;11.1;8.1;f;f;5;11;3.26;5.32;5.54
+453;Red Wing Toilet Bowl Cleaner;Red Wing;22;19.4;18.3;t;f;24;6;22.6;19.2;17.9
+454;Red Wing Counter Cleaner;Red Wing;22;14;12;f;f;3;6;15;14.3;4.68
+455;Red Wing Glass Cleaner;Red Wing;22;10.4;7.39;t;f;11;7;15.6;20.7;10.8
+456;Red Wing 25 Watt Lightbulb;Red Wing;80;13.7;12.6;t;f;30;11;9.73;6.56;19.8
+457;Red Wing AA-Size Batteries;Red Wing;101;13.2;11.1;t;f;10;11;7.51;9.86;9.95
+458;Red Wing D-Size Batteries;Red Wing;101;16.8;14.7;t;f;10;9;17.4;20.1;8.7
+459;Red Wing Paper Towels;Red Wing;18;16.4;15.3;f;f;31;12;15.2;3.49;18.8
+460;Red Wing Soft Napkins;Red Wing;18;13.7;11.6;t;f;21;11;19.8;5.52;14.6
+461;Red Wing Scented Tissue;Red Wing;18;16.1;13.1;f;f;23;8;9.86;15.6;13.9
+462;Red Wing Toilet Paper;Red Wing;18;15.6;14.6;t;f;2;8;7.65;18.9;4.12
+463;Red Wing Tissues;Red Wing;18;8.28;5.27;t;f;18;12;11.9;22.9;11.4
+464;Red Wing Scented Toilet Tissue;Red Wing;18;15.6;14.6;t;f;20;9;7.28;21.1;14.1
+465;Red Wing Room Freshener;Red Wing;20;15.2;13.1;f;f;35;9;5.06;4.5;4.26
+466;Red Wing Frying Pan;Red Wing;40;8.79;5.78;f;f;23;8;4.36;18.5;16.1
+467;Red Wing Copper Cleaner;Red Wing;87;8.33;7.32;t;f;3;7;22.1;21.8;6.3
+468;Red Wing Bees Wax Candles;Red Wing;47;10.6;9.6;t;f;5;14;12.1;12;5.58
+469;Red Wing Silver Cleaner;Red Wing;87;8.03;5.02;t;f;30;13;16.7;14;21.4
+470;Red Wing Copper Pot Scrubber;Red Wing;86;7.57;5.57;t;f;15;7;14.5;17.3;11.5
+471;Red Wing Economy Toilet Brush;Red Wing;85;9.93;7.93;f;f;17;14;4.55;7.5;10.8
+472;Red Wing Scissors;Red Wing;41;9.47;8.47;t;f;10;12;22.3;10.8;20.9
+473;Red Wing Large Sponge;Red Wing;42;14;12;f;f;24;12;21.8;4.17;15
+474;Red Wing Screw Driver;Red Wing;41;21.3;19.2;t;f;26;10;17.1;22.4;17.7
+475;Quick Extra Lean Hamburger;Quick;65;20.9;17.8;t;f;6;9;14.9;5.75;7.85
+476;Quick Seasoned Hamburger;Quick;65;15.6;14.6;t;f;22;12;12.1;11.2;13.8
+477;Dollar Monthly Sports Magazine;Dollar;104;19.1;18.1;t;f;7;12;20.4;15;14.6
+478;Dollar Monthly Auto Magazine;Dollar;108;10.8;8.8;f;f;6;13;19.2;12.2;12.2
+479;Dollar Monthly Computer Magazine;Dollar;107;16.4;14.3;t;f;14;13;4.95;8.2;15.5
+480;Dollar Monthly Home Magazine;Dollar;105;13.2;12.1;f;f;13;13;9.06;13.5;16.5
+481;Dollar Monthly Fashion Magazine;Dollar;106;14.1;12.1;t;f;33;12;5.31;5.9;6.13
+482;Tell Tale Summer Squash;Tell Tale;61;18.7;16.7;f;t;25;14;6.92;6.21;19.6
+483;Tell Tale Corn on the Cob;Tell Tale;61;13;10;t;f;3;10;20.8;21.6;5.86
+484;Tell Tale Asparagus;Tell Tale;61;8.35;6.35;f;t;4;12;7.56;4.92;14.2
+485;Tell Tale Sweet Peas;Tell Tale;61;14.5;12.5;f;t;23;11;19.6;21.1;21.6
+486;Tell Tale New Potatos;Tell Tale;61;14.8;12.8;t;t;18;14;13.3;12.5;8.47
+487;Tell Tale Beets;Tell Tale;61;9.09;6.09;f;t;5;7;18.5;20.3;19.5
+488;Tell Tale Prepared Salad;Tell Tale;61;9.77;7.77;t;t;20;10;14.4;8.41;16.1
+489;Tell Tale Onions;Tell Tale;61;16.4;13.3;t;t;12;12;8.95;10.2;8.48
+490;Tell Tale Green Pepper;Tell Tale;61;13.4;11.3;f;t;24;6;7.33;13.6;21.2
+491;Tell Tale Shitake Mushrooms;Tell Tale;61;19.6;18.6;t;f;14;13;20.7;12.1;13.7
+492;Tell Tale Lettuce;Tell Tale;61;20.3;19.2;f;f;12;11;15.5;6.91;20.3
+493;Tell Tale Elephant Garlic;Tell Tale;61;7.43;5.42;t;f;23;9;11.1;21.8;3.83
+494;Tell Tale Red Pepper;Tell Tale;61;9.02;6.02;t;f;27;12;11.7;12.2;15.2
+495;Tell Tale Garlic;Tell Tale;61;9.22;6.22;t;f;8;8;7.01;19.2;19.4
+496;Tell Tale Potatos;Tell Tale;61;11.2;10.1;f;f;31;11;9.79;6.34;20.6
+497;Tell Tale Cauliflower;Tell Tale;61;14.7;13.6;t;f;10;9;7.83;6.85;8.93
+498;Tell Tale Tomatos;Tell Tale;61;11.9;10.8;t;t;28;12;4;3.58;21.7
+499;Tell Tale Mushrooms;Tell Tale;61;13.9;11.8;t;f;28;12;16.8;5.12;20.4
+500;Tell Tale Baby Onion;Tell Tale;61;17;14;f;t;11;12;22.6;14.4;21.4
+501;Tell Tale Dried Mushrooms;Tell Tale;61;17.1;15.1;t;t;13;10;3.23;20;16.1
+502;Tell Tale Fresh Lima Beans;Tell Tale;61;20.1;18.1;t;f;24;12;10.6;9.42;12
+503;Tell Tale Squash;Tell Tale;61;21.2;20.2;f;t;31;7;19.8;13.1;11.1
+504;Tell Tale Limes;Tell Tale;99;13.6;11.6;t;t;28;10;14.7;7.32;20.3
+505;Tell Tale Firm Tofu;Tell Tale;67;18.1;16.1;f;f;30;7;17.5;19;18.3
+506;Tell Tale Almonds;Tell Tale;1;11.5;8.5;t;f;3;8;15.2;6.59;12.2
+507;Tell Tale Macintosh Apples;Tell Tale;99;20.4;18.3;t;f;14;9;22.3;3.04;13.8
+508;Tell Tale Golden Delcious Apples;Tell Tale;99;13.9;11.8;t;t;22;11;20.2;19.5;22.8
+509;Tell Tale Red Delcious Apples;Tell Tale;99;20.9;18.8;t;f;8;14;9.46;12.5;14.8
+510;Tell Tale Lemons;Tell Tale;99;9.33;7.32;t;f;27;7;3.69;20.9;15.4
+511;Tell Tale Fancy Plums;Tell Tale;99;21;19;f;t;31;6;3.31;22;16.1
+512;Tell Tale Plums;Tell Tale;99;9.85;7.85;f;f;10;7;19.7;7.08;6.5
+513;Tell Tale Peaches;Tell Tale;99;11;10;t;f;31;13;6.16;17.4;20.5
+514;Tell Tale Broccoli;Tell Tale;61;20.9;17.8;t;t;35;11;6.63;8.38;9.31
+515;Tell Tale Mandarin Oranges;Tell Tale;99;20.7;19.7;f;t;17;9;7.86;19.7;13.7
+516;Tell Tale Mixed Nuts;Tell Tale;1;21.8;19.7;t;f;6;13;6.94;9.01;15.2
+517;Tell Tale Canned Peanuts;Tell Tale;1;7.87;6.86;f;f;26;5;11.6;9.5;3.9
+518;Tell Tale Sweet Onion;Tell Tale;61;13.5;11.5;f;t;19;7;12.6;16.8;8.99
+519;Tell Tale Cantelope;Tell Tale;99;17.1;15.1;t;f;10;11;10.5;8.46;22.2
+520;Tell Tale Honey Dew;Tell Tale;99;7.28;6.28;t;f;21;8;13.8;12.5;17.2
+521;Tell Tale Fuji Apples;Tell Tale;99;8.48;6.47;t;f;17;7;20.9;18.4;11.2
+522;Tell Tale Walnuts;Tell Tale;1;15.6;13.6;t;t;6;7;7.04;15.8;10.9
+523;Tell Tale Oranges;Tell Tale;99;11.3;9.3;f;t;27;12;7.76;10.2;21.6
+524;Tell Tale Tangerines;Tell Tale;99;13.8;11.8;f;f;16;13;4.57;13;22.6
+525;Tell Tale Party Nuts;Tell Tale;1;11.3;9.3;f;t;30;14;12.8;11.9;7.77
+526;Kiwi Lox;Kiwi;24;18.4;16.3;t;t;31;5;20.7;18.3;17.4
+527;Kiwi Scallops;Kiwi;2;11.9;8.89;f;f;15;13;8.75;9.24;3.87
+528;Fast Low Fat Cookies;Fast;45;6.59;4.59;t;t;8;13;16;9.16;7.4
+529;Fast BBQ Potato Chips;Fast;12;17.7;15.7;f;t;9;9;14.5;6.88;8.27
+530;Fast Corn Chips;Fast;12;9.41;6.4;t;f;24;11;3.38;7.67;22.7
+531;Fast Low Fat BBQ Chips;Fast;12;16.9;14.8;f;t;21;8;3.6;5.14;19.8
+532;Fast Sugar Cookies;Fast;45;21.7;18.7;t;f;15;14;16.8;9.92;20.6
+533;Fast Chocolate Chip Cookies;Fast;45;20.1;17.1;f;f;12;10;9.95;20;15.4
+534;Fast Fudge Cookies;Fast;45;12.6;10.6;f;t;26;5;4.69;5.39;9.71
+535;Fast Fudge Brownies;Fast;45;7.92;6.92;t;t;4;12;21.5;3.1;15.5
+536;Fast Potato Chips;Fast;12;21.8;20.7;t;f;20;10;3.81;13.2;3.1
+537;Fast Lemon Cookies;Fast;45;20.7;18.7;t;f;3;11;19.3;8.98;22.8
+538;Fast Graham Crackers;Fast;45;20.9;18.8;t;t;13;6;4.29;12.6;14.5
+539;Fast Cheese Crackers;Fast;82;8.42;6.42;t;f;21;14;4;13.2;17.8
+540;Fast Buttered Popcorn;Fast;54;12.3;11.3;t;t;26;14;14.5;13.7;8.48
+541;Fast No Salt Popcorn;Fast;54;13;10;t;f;13;9;21.4;20.7;17.6
+542;Fast Low Fat Popcorn;Fast;54;6.84;3.84;f;t;35;12;3.07;5.03;16.4
+543;Fast Salsa Dip;Fast;83;8.05;6.05;f;f;30;6;10;22;15.4
+544;Fast Avocado Dip;Fast;83;16.1;14.1;t;f;12;9;20.7;21.7;9.83
+545;Fast Salted Pretzels;Fast;46;19.1;16.1;t;t;35;8;18.2;5.58;3.27
+546;Fast Cheese Dip;Fast;83;14.7;12.6;f;f;30;9;20.6;4.52;6.4
+547;Fast Fondue Mix;Fast;83;9.02;7.02;t;f;15;10;14.5;19.9;12.5
+548;Fast Mini Donuts;Fast;84;8.39;5.39;t;t;34;13;22.5;15.7;14.6
+549;Fast Beef Jerky;Fast;17;10.5;9.5;t;f;34;10;13.3;19.4;8.37
+550;Fast Chocolate Donuts;Fast;84;10.7;8.69;f;f;30;13;7.09;10.8;15.1
+551;Fast Low Fat Chips;Fast;12;7.87;5.86;t;f;6;12;13.5;10.9;20.4
+552;Fast Sesame Crackers;Fast;82;18.6;16.6;t;t;25;11;10.9;9.83;18.8
+553;Fast Frosted Cookies;Fast;45;7.41;5.4;f;f;24;11;17.3;20.4;11.7
+554;Fast Dried Apples;Fast;109;13.1;12.1;t;f;34;6;17.3;14.4;6.85
+555;Fast Apple Fruit Roll;Fast;109;19.3;18.2;t;f;18;14;10.6;12.9;19.2
+556;Fast Strawberry Fruit Roll;Fast;109;11.3;8.3;t;f;24;10;3.95;17.1;3.67
+557;Fast Raspberry Fruit Roll;Fast;109;18.4;15.3;f;f;18;10;20.8;4.53;20.8
+558;Fast Grape Fruit Roll;Fast;109;15;13;f;t;21;13;16;6.79;8.77
+559;Fast Dried Dates;Fast;109;19.9;17.8;f;t;20;7;20.7;17.3;6.64
+560;Fast Raisins;Fast;109;15;12;f;t;5;12;6.55;7.06;5.45
+561;Fast Golden Raisins;Fast;109;15.7;13.6;t;t;9;9;12.4;20.7;4.61
+562;Fast Dried Apricots;Fast;109;17.8;15.7;f;f;21;10;13.8;5.58;20.8
+563;Fast Frosted Donuts;Fast;84;19.9;18.8;f;t;31;9;6.76;7.11;19.5
+564;Atomic Tasty Candy Bar;Atomic;36;17.9;15.8;t;t;9;13;7.18;8.35;17
+565;Atomic Mint Chocolate Bar;Atomic;36;10.9;9.89;t;f;9;11;12.9;22.5;13.6
+566;Atomic Malted Milk Balls;Atomic;36;13.9;10.8;f;f;20;13;20.3;11.9;9.61
+567;Atomic Semi-Sweet Chocolate Bar;Atomic;36;15.9;13.8;t;t;35;13;4.46;5.77;13.2
+568;Atomic Bubble Gum;Atomic;37;11.2;8.19;f;t;18;13;11.5;6.82;11.6
+569;Atomic Spicy Mints;Atomic;38;7.79;5.78;t;t;33;13;16.9;3.52;17
+570;Atomic Mints;Atomic;38;17.5;15.5;f;t;32;9;19.6;21.1;5.86
+571;Atomic White Chocolate Bar;Atomic;36;10.4;8.39;f;f;31;8;6.66;17.6;7.45
+572;Shady Lake Ravioli;Shady Lake;5;8.94;5.93;f;f;11;9;9.85;22.2;19.8
+573;Shady Lake Manicotti;Shady Lake;5;19.7;18.7;t;t;9;10;4.48;3.23;15.8
+574;Shady Lake Spaghetti;Shady Lake;5;19;17;t;f;29;11;13.4;3.46;12.9
+575;Shady Lake Thai Rice;Shady Lake;57;11;8;t;t;26;7;7.64;16.5;9.69
+576;Shady Lake Rice Medly;Shady Lake;57;18.6;16.6;t;t;11;12;16.2;8.5;9.2
+577;Walrus Imported Beer;Walrus;43;6.11;3.11;t;f;31;9;15.8;20.1;17.5
+578;Walrus Light Wine;Walrus;44;9.38;8.38;t;f;9;8;10.5;21.4;6.5
+579;Walrus Chardonnay Wine;Walrus;44;15.7;13.6;f;f;35;9;22.5;19.6;19.5
+580;Walrus Chablis Wine;Walrus;44;19.9;17.8;f;f;29;6;21.4;16.6;18.2
+581;Walrus Merlot Wine;Walrus;44;19.4;17.3;t;f;6;14;10.8;9.99;3.24
+582;Walrus Chardonnay;Walrus;44;9.9;6.89;t;f;32;6;22.7;8.21;16.2
+583;Walrus White Zinfandel Wine;Walrus;44;19.4;17.3;t;f;18;7;11.9;3.33;13.2
+584;Walrus Light Beer;Walrus;43;17.6;15.6;f;f;31;6;21.3;16.5;18.8
+585;Colony Pumpernickel Bread;Colony;27;8.08;5.07;f;t;21;7;13.3;14.7;11.8
+586;Colony White Bread;Colony;27;18.9;16.8;t;f;2;8;17.8;21.3;10.3
+587;Colony Rye Bread;Colony;27;7.71;5.71;f;f;18;6;4.43;20.8;18.2
+588;Colony English Muffins;Colony;26;7.55;5.55;f;f;35;8;14.4;4.41;15.1
+589;Colony Cranberry Muffins;Colony;26;16.4;15.3;t;f;35;12;18.1;11.7;12.1
+590;Colony Muffins;Colony;26;6.14;3.13;f;f;33;8;19.2;19;17.2
+591;Colony Bagels;Colony;25;8.72;6.72;f;t;13;8;12.9;15;20.8
+592;Colony Blueberry Muffins;Colony;26;12.7;11.6;t;f;30;6;3.16;17.8;21.4
+593;Colony Wheat Bread;Colony;27;12;10;t;f;26;13;22.1;12.4;16
+594;Landslide Sesame Oil;Landslide;49;7.27;4.26;t;f;4;10;9.48;22.4;9.45
+595;Landslide Chunky Peanut Butter;Landslide;53;7.95;4.94;t;f;31;10;15.5;4.96;3.61
+596;Landslide Hot Chocolate;Landslide;51;10.4;8.39;f;t;28;13;21.4;13.2;9.7
+597;Landslide Brown Sugar;Landslide;50;19.3;16.2;t;t;19;12;20.3;8.61;21.1
+598;Landslide White Sugar;Landslide;50;10.3;9.3;t;f;25;8;8.2;14.9;10.8
+599;Landslide French Roast Coffee;Landslide;90;9.79;7.78;t;f;21;9;5.55;9.6;10.4
+600;Landslide Decaf Coffee;Landslide;90;18.9;16.8;t;f;3;9;11.1;5.79;12.5
+601;Landslide Regular Coffee;Landslide;90;14.9;12.8;f;f;9;9;9.02;8.84;3.85
+602;Landslide Vegetable Oil;Landslide;49;15.9;13.8;t;f;3;7;12.1;20;18.5
+603;Landslide Corn Oil;Landslide;49;16.5;14.5;t;t;19;10;8.1;8.11;15.2
+604;Landslide Tomato Sauce;Landslide;48;9.48;6.47;f;f;27;10;6.6;5.74;16.7
+605;Landslide Canola Oil;Landslide;49;21.2;20.2;t;f;31;10;15.9;3.49;4.93
+606;Landslide Grape Preserves;Landslide;33;11.3;9.3;f;f;20;9;9.31;21.9;17.3
+607;Landslide Columbian Coffee;Landslide;90;13.3;10.3;f;f;26;9;13.1;22.4;8.62
+608;Landslide Strawberry Jelly;Landslide;31;10.2;8.19;t;f;25;13;15.8;16.6;9.61
+609;Landslide Pepper;Landslide;4;11.3;9.3;f;t;2;14;4.08;15.8;13.6
+610;Landslide Low Fat Apple Butter;Landslide;33;7.14;5.13;t;t;24;6;13;15.8;11.8
+611;Landslide Salt;Landslide;4;15.1;13.1;t;f;30;6;15.6;18.8;13.7
+612;Landslide Apple Butter;Landslide;33;11.6;10.6;t;f;12;7;22.7;20.1;11.5
+613;Landslide Oregano;Landslide;4;21.1;20.1;t;f;20;7;10.8;19.9;13
+614;Landslide Apple Jelly;Landslide;31;16.7;14.7;t;f;24;13;21.7;8.79;21.2
+615;Landslide Grape Jam;Landslide;32;18.4;16.3;f;t;34;6;10.3;15.8;5.11
+616;Landslide Apple Jam;Landslide;32;21.9;19.8;t;t;13;11;18.8;8.57;20.9
+617;Landslide Strawberry Jam;Landslide;32;13.9;10.8;t;t;30;9;21.2;22.7;7.78
+618;Landslide Creamy Peanut Butter;Landslide;53;7.28;6.28;t;t;21;7;17.2;21.1;12.1
+619;Landslide Strawberry Preserves;Landslide;33;6.14;5.13;f;f;3;8;14;19.1;16.8
+620;Landslide Extra Chunky Peanut Butter;Landslide;53;7.8;5.8;t;f;36;12;13.3;7.3;3.26
+621;Landslide Apple Preserves;Landslide;33;9.36;7.35;t;f;22;13;4.69;7.69;12.1
+622;Landslide Grape Jelly;Landslide;31;6.38;3.38;t;t;28;5;22.3;15.5;4.95
+623;Token Berry Juice;Token;30;8.04;7.03;t;f;2;5;11.7;18.1;8.82
+624;Token Mango Drink;Token;52;20.4;18.3;t;t;16;12;11.5;8.99;14.9
+625;Token Strawberry Drink;Token;52;13.8;10.8;t;f;18;6;10.9;16.5;3.9
+626;Token Cream Soda;Token;19;6.73;4.73;f;f;9;14;9.79;12;15.3
+627;Token Diet Soda;Token;19;7.64;4.63;t;f;31;13;14.4;14.2;10.1
+628;Token Cola;Token;19;16.4;14.3;t;f;12;13;16.5;11.5;17.3
+629;Token Diet Cola;Token;19;10;8;f;f;10;12;22.7;4.44;14.3
+630;Token Orange Juice;Token;30;11;10;t;f;33;11;7.34;6.72;9.09
+631;Token Cranberry Juice;Token;30;19.7;17.7;t;f;7;8;9.47;3.99;16.3
+632;Token Apple Juice;Token;30;20.6;18.6;f;f;1;11;14;6.27;11
+633;Token Apple Drink;Token;52;15.6;13.6;t;f;33;10;20.2;19.3;7.55
+634;Radius Oatmeal;Radius;35;13.1;10.1;t;t;12;9;18.8;21.6;5.2
+635;Radius Corn Puffs;Radius;35;7.92;5.92;f;t;34;8;15;22.6;16.2
+636;Radius Wheat Puffs;Radius;35;12.2;9.19;f;t;19;8;10.2;15.4;11.7
+637;Radius Grits;Radius;35;8.4;7.39;f;t;2;13;12;13.2;22.3
+638;Bravo Canned Beets;Bravo;62;6.8;5.8;t;f;22;9;16.5;20;19.7
+639;Bravo Creamed Corn;Bravo;62;16.2;14.2;f;f;18;14;4.16;13.2;16.1
+640;Bravo Canned String Beans;Bravo;62;9.63;7.63;f;t;20;8;3.52;20.8;5.09
+641;Bravo Chicken Soup;Bravo;58;18.5;15.5;t;t;11;7;22.3;16.2;16.5
+642;Bravo Canned Yams;Bravo;62;7.39;6.38;t;t;21;7;17.1;21.2;11.9
+643;Bravo Vegetable Soup;Bravo;58;9;6;f;f;19;7;7.64;17.2;5.81
+644;Bravo Canned Tomatos;Bravo;62;13.4;11.3;f;f;32;10;20.5;3.37;21.3
+645;Bravo Noodle Soup;Bravo;58;6.41;5.4;f;f;8;5;5.97;19.8;7.91
+646;Bravo Regular Ramen Soup;Bravo;58;6.18;4.17;t;f;1;10;17.2;5.63;9.86
+647;Bravo Chicken Noodle Soup;Bravo;58;17.7;15.7;t;f;23;14;15.1;17.5;21
+648;Bravo Turkey Noodle Soup;Bravo;58;12.5;11.5;t;f;5;11;21.3;4.13;14.5
+649;Bravo Beef Soup;Bravo;58;17.2;14.2;f;t;15;14;8.85;8.08;17.4
+650;Bravo Canned Peas;Bravo;62;17.5;15.5;t;t;17;6;21.1;8.36;4.22
+651;Bravo Chicken Ramen Soup;Bravo;58;15;13;f;t;19;14;11;7.36;4.38
+652;Bravo Canned Tuna in Water;Bravo;93;10.7;9.69;t;f;23;14;20.2;16.2;17.6
+653;Bravo Canned Tuna in Oil;Bravo;93;9.71;7.71;t;t;28;13;15.7;11.9;17.3
+654;Bravo Large Canned Shrimp;Bravo;94;10.8;7.8;f;f;29;7;13.8;16.7;3.85
+655;Bravo Fancy Canned Anchovies;Bravo;95;8.33;5.32;f;t;5;11;15;8.05;8.9
+656;Bravo Fancy Canned Clams;Bravo;96;20.4;17.3;t;f;16;6;8.12;13.6;6.99
+657;Bravo Fancy Canned Oysters;Bravo;97;19.8;18.7;f;t;2;6;6.03;14.9;11.5
+658;Bravo Fancy Canned Sardines;Bravo;98;6.44;5.44;t;f;28;5;9.18;9.84;12.6
+659;Bravo Rice Soup;Bravo;58;15.8;14.8;t;t;1;10;18.6;11.8;19.1
+660;Applause Canned Mixed Fruit;Applause;3;6.96;3.96;t;t;2;7;5.24;15.9;3.76
+661;Applause Canned Peaches;Applause;3;19;17;f;f;20;6;9.29;20.4;14.3
+662;Prelude Rosy Sunglasses;Prelude;89;21.5;19.5;t;f;29;9;14.2;4.22;5.44
+663;Akron Eyeglass Screwdriver;Akron;103;11.4;10.3;t;f;19;11;15.8;4.7;18.4
+664;Akron City Map;Akron;102;8.24;6.23;f;f;18;12;19.9;10;19.4
+665;Gorilla Low Fat Cottage Cheese;Gorilla;15;8.79;6.78;f;f;21;8;20.3;17.8;19.3
+666;Gorilla Low Fat Sour Cream;Gorilla;14;14.5;12.5;f;t;19;7;10.1;17.4;16.9
+667;Gorilla Sour Cream;Gorilla;14;21.2;20.2;t;f;5;11;15.8;7.02;16.7
+668;Gorilla Jack Cheese;Gorilla;11;21.9;18.8;t;f;27;14;19.8;11.7;5.87
+669;Gorilla Muenster Cheese;Gorilla;11;19.4;18.3;t;t;3;8;11.5;15.3;18.4
+670;Gorilla String Cheese;Gorilla;11;18.2;15.2;t;t;14;6;8.36;13.2;3.16
+671;Gorilla Low Fat String Cheese;Gorilla;11;20.8;19.7;t;t;29;7;11.6;17;19.2
+672;Gorilla Havarti Cheese;Gorilla;11;13.3;10.3;t;t;20;8;16.5;16.8;10.9
+673;Gorilla Head Cheese;Gorilla;11;18.2;17.2;f;f;13;7;11.6;19.6;16.3
+674;Gorilla Cheese Spread;Gorilla;11;21.1;20.1;t;t;30;9;10;7.9;4.79
+675;Gorilla Sharp Cheddar Cheese;Gorilla;11;13.1;10.1;t;t;24;13;22.6;16.5;9.17
+676;Gorilla Mild Cheddar Cheese;Gorilla;11;8.86;6.85;t;t;5;10;22;8.7;14.9
+677;Gorilla Large Curd Cottage Cheese;Gorilla;15;8.58;6.57;t;f;16;5;10.1;14.2;7.27
+678;Gorilla 2% Milk;Gorilla;76;14.3;13.3;t;f;3;14;21.1;7.13;14.8
+679;Gorilla Buttermilk;Gorilla;76;20.3;17.2;t;f;31;12;9.6;6.43;13
+680;Gorilla Chocolate Milk;Gorilla;76;13.4;10.3;t;f;3;12;15.2;22.6;15.1
+681;Gorilla 1% Milk;Gorilla;76;9.43;8.43;t;f;20;11;13;5.66;6.42
+682;Gorilla Whole Milk;Gorilla;76;10.4;7.39;t;f;14;9;16.2;16.8;21.1
+683;Gorilla Strawberry Yogurt;Gorilla;6;8.58;5.57;t;f;20;9;7.16;21.1;6.7
+684;Gorilla Blueberry Yogurt;Gorilla;6;9.71;7.71;t;t;18;12;16.7;7.13;13.1
+685;Cutting Edge Chicken Hot Dogs;Cutting Edge;81;18.2;17.2;f;t;9;7;20.1;15.7;4.84
+686;Cutting Edge Pimento Loaf;Cutting Edge;91;12.5;9.5;t;f;34;10;4.1;5.65;8.5
+687;Cutting Edge Beef Bologna;Cutting Edge;91;7.67;4.67;f;f;35;13;3.52;7.82;4.38
+688;Cutting Edge Low Fat Bologna;Cutting Edge;91;12.9;11.8;f;t;13;9;22.3;18.4;19.6
+689;Cutting Edge Turkey Hot Dogs;Cutting Edge;81;21.9;19.8;t;f;7;12;8.13;12.6;16.2
+690;Cutting Edge Foot-Long Hot Dogs;Cutting Edge;81;6.68;5.67;f;t;34;8;22.4;20.7;17.8
+691;Cutting Edge Low Fat Cole Slaw;Cutting Edge;16;9.66;6.65;f;f;34;14;19.7;15.7;16.3
+692;Cutting Edge Cole Slaw;Cutting Edge;16;6.19;4.19;t;t;23;9;6.78;16.9;14.1
+693;Cutting Edge Roasted Chicken;Cutting Edge;77;15.6;14.6;f;t;25;6;14.9;16.7;15.5
+694;Cutting Edge Corned Beef;Cutting Edge;8;11.2;9.19;f;t;29;11;5.75;5.61;3.81
+695;Cutting Edge Sliced Turkey;Cutting Edge;8;12.9;9.89;t;t;3;13;14.3;12.6;7.68
+696;Cutting Edge Sliced Ham;Cutting Edge;8;19.6;17.6;t;t;24;9;20;22.2;7.48
+697;Cutting Edge Potato Salad;Cutting Edge;16;8.47;7.47;t;t;35;8;5.31;19.5;10.3
+698;Cutting Edge Sliced Chicken;Cutting Edge;8;6.86;4.86;t;t;28;9;21;18.6;12.6
+699;Jumbo Small Brown Eggs;Jumbo;66;21.7;19.7;f;t;4;7;17.8;16.6;17.3
+700;Jumbo Large Brown Eggs;Jumbo;66;7.38;5.38;t;f;2;11;17.1;4.83;3.73
+701;Jumbo Small Eggs;Jumbo;66;8.94;6.93;f;f;23;11;8.51;5.22;12.6
+702;Jumbo Large Eggs;Jumbo;66;21.9;18.8;f;t;29;13;6.16;13;5.41
+703;Jumbo Egg Substitute;Jumbo;66;7.62;5.61;t;f;3;13;15.5;15.6;9.28
+704;Imagine Low Fat Waffles;Imagine;34;8.41;7.4;t;f;1;12;9.62;14.8;15.9
+705;Imagine Orange Popsicles;Imagine;110;12.2;9.19;f;f;30;12;11.5;12;9.09
+706;Imagine Frozen Chicken Breast;Imagine;100;11;8;f;t;24;9;15.6;22;11.7
+707;Imagine Frozen Pancakes;Imagine;29;16.7;14.7;t;t;10;8;6.58;14.9;19.3
+708;Imagine Low Fat French Fries;Imagine;63;9.79;8.78;t;t;33;9;22;5.8;3.43
+709;Imagine Frozen Sausage Pizza;Imagine;64;16.9;14.8;t;t;16;5;18.5;15.4;10.5
+710;Imagine Blueberry Waffles;Imagine;34;15.3;13.3;t;f;1;10;3.07;22.2;7.96
+711;Imagine Fajita French Fries;Imagine;63;13.8;10.8;t;f;3;9;15.9;3.56;7.83
+712;Imagine Waffles;Imagine;34;7.2;4.19;t;f;27;10;15.3;11.1;16.7
+713;Imagine Frozen Pepperoni Pizza;Imagine;64;11;9;f;t;25;8;8.89;18.4;4.83
+714;Imagine Frozen Cheese Pizza;Imagine;64;16.2;15.2;t;f;33;7;8.67;13.5;15
+715;Imagine Frozen Mushroom Pizza;Imagine;64;6.88;4.88;t;t;24;13;4.45;17.6;12.3
+716;Imagine Apple Cinnamon Waffles;Imagine;34;6.27;5.26;f;f;3;6;12;15.6;4.45
+717;Imagine Frozen Carrots;Imagine;60;15.2;12.1;t;t;20;6;17.4;12;11
+718;Imagine Turkey TV Dinner;Imagine;10;15;13;t;t;13;10;8.79;17.8;12.9
+719;Imagine Chicken TV Dinner;Imagine;10;14.4;13.3;t;t;32;5;6.51;10.3;22.5
+720;Imagine Beef TV Dinner;Imagine;10;9.18;7.18;f;t;10;13;12.7;16.8;16
+721;Imagine Pancake Mix;Imagine;28;14.8;11.8;t;f;20;11;15.1;10.9;3.57
+722;Imagine Grape Popsicles;Imagine;110;20.2;18.2;f;t;27;8;12.6;19.3;13.8
+723;Imagine Home Style French Fries;Imagine;63;17.6;14.6;t;t;30;6;22.6;18.3;13.9
+724;Imagine Lime Popsicles;Imagine;110;19.3;17.2;f;f;34;6;21.1;10.9;20.3
+725;Imagine Ice Cream;Imagine;9;7.33;5.32;f;f;4;14;21.9;14.8;3.48
+726;Imagine Ice Cream Sandwich;Imagine;9;8.47;6.47;f;t;5;9;20.1;19.6;10
+727;Imagine Frozen Cauliflower;Imagine;60;21;19;t;t;8;8;6.41;20.8;10.4
+728;Imagine Frozen Broccoli;Imagine;60;17.1;15.1;f;t;26;10;19.4;6.38;8.54
+729;Imagine Frozen Corn;Imagine;60;17.7;15.7;t;t;4;12;17.2;7.89;12.5
+730;Imagine Frozen Peas;Imagine;60;9.39;7.39;t;t;30;11;5.75;10.9;17.1
+731;Imagine Popsicles;Imagine;9;13.7;10.6;f;f;9;11;9.89;4.82;20.1
+732;Imagine Frozen Chicken Thighs;Imagine;100;9.91;7.9;t;f;9;7;21.8;17;8.21
+733;Imagine Frozen Chicken Wings;Imagine;100;16.6;13.6;t;t;2;11;15.5;3.33;20.5
+734;Imagine Lemon Popsicles;Imagine;110;19.1;16.1;f;f;10;14;20.5;7.11;11.5
+735;Consolidated Silky Smooth Hair Conditioner;Consolidated;78;6.51;4.51;f;f;13;8;17.4;5.13;15.3
+736;Consolidated Tartar Control Toothpaste;Consolidated;39;10.1;7.1;f;f;23;10;15.7;5.38;19.1
+737;Consolidated Whitening Toothpast;Consolidated;39;11.6;9.6;t;f;2;8;20.9;4.36;8.75
+738;Consolidated Toothpaste;Consolidated;39;7.12;4.11;t;f;34;8;16.7;19.5;5.17
+739;Consolidated Deodorant;Consolidated;39;10.7;8.69;t;f;2;6;14.9;19.8;9.03
+740;Consolidated Conditioning Shampoo;Consolidated;79;12.5;10.5;f;f;13;12;5.15;8.87;13.4
+741;Consolidated Extra Moisture Shampoo;Consolidated;79;16.2;14.2;f;f;4;8;3.44;9.12;17.3
+742;Consolidated Angled Toothbrush;Consolidated;88;11.7;10.6;f;f;14;10;19.2;4.35;13.7
+743;Consolidated Apricot Shampoo;Consolidated;79;9.42;7.42;t;f;27;8;19;15.3;19.3
+744;Consolidated Childrens Aspirin;Consolidated;70;13;11;t;f;1;9;17.3;15.6;3.21
+745;Consolidated Buffered Aspirin;Consolidated;70;8.57;6.56;t;f;27;5;13.1;10.8;19.6
+746;Consolidated 200 MG Ibuprofen;Consolidated;71;10;8;t;f;12;7;18.3;9.84;9.2
+747;Consolidated 200 MG Acetominifen;Consolidated;72;13.6;11.6;t;f;15;5;16.6;10;13
+748;Consolidated HCL Nasal Spray;Consolidated;73;9.19;6.18;t;f;6;10;12.4;5.32;9.48
+749;Consolidated Dishwasher Detergent;Consolidated;73;12.8;10.8;t;f;16;12;10.6;5.58;13.3
+750;Consolidated Multi-Symptom Cold Remedy;Consolidated;75;15.5;12.5;f;f;29;10;15.8;4.73;22.3
+751;Consolidated Childrens Cold Remedy;Consolidated;75;11;9;f;f;26;10;11.6;19.9;18.7
+752;Consolidated Laundry Detergent;Consolidated;74;14.7;12.6;f;f;29;8;9.9;20.2;22.6
+753;Consolidated Mint Mouthwash;Consolidated;74;16.5;13.5;t;f;5;14;20;9.24;7.08
+754;Cormorant 60 Watt Lightbulb;Cormorant;80;12;9;t;f;31;10;15.8;4.47;3.51
+755;Cormorant Plastic Forks;Cormorant;56;15.6;13.6;t;f;6;12;14.1;4.72;7.36
+756;Cormorant Plastic Spoons;Cormorant;56;17.1;16.1;t;f;19;9;19.3;3.7;16.9
+757;Cormorant Plastic Knives;Cormorant;56;20.7;18.7;f;f;29;11;17.6;3.95;20.7
+758;Cormorant C-Size Batteries;Cormorant;101;17.5;14.5;t;f;19;7;13.3;19.3;16.6
+759;Cormorant 100 Watt Lightbulb;Cormorant;80;18;16;f;f;22;11;14.4;22.7;16.5
+760;Cormorant AAA-Size Batteries;Cormorant;101;21.7;18.7;f;f;25;9;12.7;22.9;20.3
+761;Cormorant Paper Plates;Cormorant;55;18.1;16.1;f;f;4;7;12.6;13.8;6.53
+762;Cormorant Paper Cups;Cormorant;55;21.8;18.7;f;f;36;6;10.9;14;10.3
+763;Cormorant 75 Watt Lightbulb;Cormorant;80;6.32;5.32;t;f;5;14;12;17.4;10.2
+764;Cormorant Toilet Bowl Cleaner;Cormorant;22;15.9;13.8;f;f;32;7;8.31;19;4.2
+765;Cormorant Counter Cleaner;Cormorant;22;19.6;16.6;f;f;36;6;6.6;19.2;8.06
+766;Cormorant Glass Cleaner;Cormorant;22;20.1;18.1;t;f;3;9;7.71;22.6;7.91
+767;Cormorant 25 Watt Lightbulb;Cormorant;80;16.9;15.8;t;f;2;8;12.5;3.52;8.92
+768;Cormorant AA-Size Batteries;Cormorant;101;20.5;18.5;f;f;12;9;10.8;3.77;12.7
+769;Cormorant D-Size Batteries;Cormorant;101;21;20;f;f;9;9;11.9;7.13;12.6
+770;Cormorant Paper Towels;Cormorant;18;8.73;6.72;f;f;18;11;10.2;7.38;16.4
+771;Cormorant Soft Napkins;Cormorant;18;21.1;20.1;t;f;26;5;10.1;18.2;22.6
+772;Cormorant Scented Tissue;Cormorant;18;6.95;4.94;t;f;28;9;11.1;21.7;21.9
+773;Cormorant Toilet Paper;Cormorant;18;10.6;7.6;t;f;32;7;9.45;22;5.8
+774;Cormorant Tissues;Cormorant;18;6.11;4.11;t;f;29;7;5.25;17.2;22.2
+775;Cormorant Scented Toilet Tissue;Cormorant;18;20.7;19.7;t;f;7;13;18.2;9.38;22.6
+776;Cormorant Room Freshener;Cormorant;20;6.21;4.21;t;f;17;6;3.41;8.36;12.2
+777;Cormorant Frying Pan;Cormorant;40;17.7;15.7;t;f;8;11;19.2;3.59;8.64
+778;Cormorant Copper Cleaner;Cormorant;87;21.3;19.2;t;f;18;13;17.5;3.84;12.5
+779;Cormorant Bees Wax Candles;Cormorant;47;8.09;5.09;f;f;30;11;22.6;3;21.5
+780;Cormorant Silver Cleaner;Cormorant;87;19.5;18.5;f;f;21;7;18.4;18.2;17.9
+781;Cormorant Copper Pot Scrubber;Cormorant;86;7.24;5.23;f;f;31;9;16.7;18.4;21.8
+782;Cormorant Economy Toilet Brush;Cormorant;85;9.02;7.02;t;f;36;11;6.86;7.5;6.25
+783;Cormorant Scissors;Cormorant;41;12.6;11.6;t;f;10;13;5.15;7.76;10.1
+784;Cormorant Large Sponge;Cormorant;42;8.17;7.17;t;f;1;9;20.9;22.9;6.53
+785;Cormorant Screw Driver;Cormorant;41;9.63;8.63;t;f;21;10;6.13;21.9;16
+786;Footnote Extra Lean Hamburger;Footnote;65;13.2;11.1;f;f;25;9;4.42;22.2;19.9
+787;Footnote Seasoned Hamburger;Footnote;65;13;11;f;t;32;11;7.55;7;11.7
+788;Excel Monthly Sports Magazine;Excel;104;21;19;f;f;24;8;9.98;21.1;18.6
+789;Excel Monthly Auto Magazine;Excel;108;19.7;18.7;t;f;12;7;21.4;22.1;19
+790;Excel Monthly Computer Magazine;Excel;107;12.4;9.39;t;f;28;8;3.61;19.4;6.37
+791;Excel Monthly Home Magazine;Excel;105;8.39;6.39;f;f;16;7;22.9;13.6;17.6
+792;Excel Monthly Fashion Magazine;Excel;106;7.1;5.09;t;f;13;6;14.4;14.6;18
+793;Ebony Summer Squash;Ebony;61;12;11;f;f;26;11;16.7;11.3;6.94
+794;Ebony Corn on the Cob;Ebony;61;7.26;6.26;f;t;21;6;5.14;14.6;10.3
+795;Ebony Asparagus;Ebony;61;21.6;20.6;f;t;12;11;20.6;20.3;20.1
+796;Ebony Sweet Peas;Ebony;61;6.29;5.28;t;t;28;5;16.5;8.45;16.8
+797;Ebony New Potatos;Ebony;61;7.96;4.96;t;t;8;8;5.76;22.1;5.72
+798;Ebony Beets;Ebony;61;14.6;11.6;f;t;6;5;9.78;11.7;10.5
+799;Ebony Prepared Salad;Ebony;61;20.8;18.7;t;f;30;12;3.16;10.2;22.9
+800;Ebony Onions;Ebony;61;11.5;9.5;t;t;16;11;7.37;8.78;22.7
+801;Ebony Green Pepper;Ebony;61;10.8;8.8;f;f;21;6;17.6;15.7;22.2
+802;Ebony Shitake Mushrooms;Ebony;61;12.4;10.3;t;t;30;13;18.2;6.14;13.6
+803;Ebony Lettuce;Ebony;61;21.4;19.3;f;t;18;13;4.15;9.25;5.21
+804;Ebony Elephant Garlic;Ebony;61;7.48;4.48;f;f;6;7;6.92;16.3;6.44
+805;Ebony Red Pepper;Ebony;61;16.9;13.8;f;t;14;9;14.3;20.5;7.88
+806;Ebony Garlic;Ebony;61;8.1;6.1;t;f;32;13;21.1;13.5;7.53
+807;Ebony Potatos;Ebony;61;21.1;20.1;f;f;33;13;8.7;6.98;22.8
+808;Ebony Cauliflower;Ebony;61;19.4;17.3;t;f;6;9;14.1;18.2;15.2
+809;Ebony Tomatos;Ebony;61;18.7;16.7;t;t;4;7;5.12;20.7;14.7
+810;Ebony Mushrooms;Ebony;61;21.7;19.7;t;f;22;13;12.5;10.1;10.6
+811;Ebony Baby Onion;Ebony;61;17.4;15.3;t;f;26;14;11.3;15.6;11.3
+812;Ebony Dried Mushrooms;Ebony;61;20.9;18.8;t;f;28;11;21;21.7;17.1
+813;Ebony Fresh Lima Beans;Ebony;61;14.3;11.3;t;f;30;8;9.16;21.5;18.6
+814;Ebony Squash;Ebony;61;18.7;16.7;f;f;3;9;21.5;21;9.13
+815;Ebony Limes;Ebony;99;11.7;9.69;f;f;8;7;8.6;17.4;10.7
+816;Ebony Firm Tofu;Ebony;67;17.3;15.2;t;t;4;10;21.1;6.01;15.7
+817;Ebony Almonds;Ebony;1;17.2;14.2;t;t;8;6;21;15.1;15.1
+818;Ebony Macintosh Apples;Ebony;99;21.5;19.5;t;f;34;11;15.2;3.51;15.6
+819;Ebony Golden Delcious Apples;Ebony;99;18.5;16.5;t;f;10;13;3.95;10.2;20.9
+820;Ebony Red Delcious Apples;Ebony;99;7.36;5.36;f;f;2;13;20.4;15.3;11.3
+821;Ebony Lemons;Ebony;99;7.65;5.65;t;f;28;14;22.7;10;15.6
+822;Ebony Fancy Plums;Ebony;99;18.4;17.3;f;t;9;6;7.27;16.6;14.1
+823;Ebony Plums;Ebony;99;7.28;6.28;t;t;25;13;13.8;16.1;22
+824;Ebony Peaches;Ebony;99;19.3;16.2;t;t;9;5;4.02;19.1;20.5
+825;Ebony Broccoli;Ebony;61;20;18;t;t;31;6;8.76;19.4;9.7
+826;Ebony Mandarin Oranges;Ebony;99;9.79;7.78;t;f;29;11;9.83;6.84;14.7
+827;Ebony Mixed Nuts;Ebony;1;8.29;7.28;t;f;20;6;22.3;10.3;4.66
+828;Ebony Canned Peanuts;Ebony;1;19.4;17.3;f;t;32;8;10.9;22.4;3.04
+829;Ebony Sweet Onion;Ebony;61;15.6;14.6;f;t;21;7;12.8;20.2;13.6
+830;Ebony Cantelope;Ebony;99;8.11;7.1;f;f;9;8;18.8;17.8;12.7
+831;Ebony Honey Dew;Ebony;99;8.79;6.78;f;t;2;8;4.84;20.4;6.91
+832;Ebony Fuji Apples;Ebony;99;15;13;f;f;32;13;7.02;11.1;11.8
+833;Ebony Walnuts;Ebony;1;18.8;16.7;f;f;25;10;9.68;3.9;5.01
+834;Ebony Oranges;Ebony;99;9.96;7.96;f;t;32;5;17.5;10.2;14.6
+835;Ebony Tangerines;Ebony;99;13.4;12.3;f;f;17;13;16.1;17.4;7.97
+836;Ebony Party Nuts;Ebony;1;20.9;17.8;t;t;8;9;6.3;20.4;7.49
+837;Curlew Lox;Curlew;24;8.97;6.97;f;f;19;13;6.38;8.74;10.6
+838;Curlew Scallops;Curlew;2;6.87;3.86;f;t;4;10;20.4;17.8;8.06
+839;Nationeel Low Fat Cookies;Nationeel;45;14.4;11.3;f;f;2;7;20.6;15.3;5.07
+840;Nationeel BBQ Potato Chips;Nationeel;12;17;16;t;f;34;8;4.38;16.8;11.1
+841;Nationeel Corn Chips;Nationeel;12;10.4;7.39;t;t;18;6;12.1;18.9;22.6
+842;Nationeel Low Fat BBQ Chips;Nationeel;12;18.9;16.8;t;f;33;10;6.91;4.21;16.8
+843;Nationeel Sugar Cookies;Nationeel;45;8.24;6.23;t;f;22;6;14.3;18.1;9.56
+844;Nationeel Chocolate Chip Cookies;Nationeel;45;17.1;14.1;t;f;22;10;11.3;20.1;13.6
+845;Nationeel Fudge Cookies;Nationeel;45;7.31;5.3;t;t;8;7;16.1;19.8;5.99
+846;Nationeel Fudge Brownies;Nationeel;45;16.3;13.2;f;f;31;9;11.8;19.6;5.07
+847;Nationeel Potato Chips;Nationeel;12;19.7;17.7;t;f;4;8;11.5;20.1;8.37
+848;Nationeel Lemon Cookies;Nationeel;45;13.9;12.8;f;f;23;5;16.4;14.4;7.04
+849;Nationeel Graham Crackers;Nationeel;45;8.31;6.31;f;f;31;12;9.02;7.69;8.19
+850;Nationeel Cheese Crackers;Nationeel;82;7.17;6.17;f;t;18;6;15.9;20.1;10.4
+851;Nationeel Buttered Popcorn;Nationeel;54;9.31;6.31;f;t;7;5;6.93;12.7;19.1
+852;Nationeel No Salt Popcorn;Nationeel;54;8.63;6.63;f;t;15;9;16;21.8;11.2
+853;Nationeel Low Fat Popcorn;Nationeel;54;10.6;8.6;f;t;28;6;5.9;12;15.4
+854;Nationeel Salsa Dip;Nationeel;83;10.9;7.89;t;f;11;8;17.7;14.5;12.2
+855;Nationeel Avocado Dip;Nationeel;83;10.2;8.19;f;t;25;5;16.9;18;21.7
+856;Nationeel Salted Pretzels;Nationeel;46;15.5;13.5;t;t;9;8;14.3;17.6;17
+857;Nationeel Cheese Dip;Nationeel;83;11.7;8.69;t;f;9;5;15.8;17.6;17.6
+858;Nationeel Fondue Mix;Nationeel;83;6.98;5.98;f;f;5;8;4.22;20.8;20.9
+859;Nationeel Mini Donuts;Nationeel;84;16.3;14.2;f;f;16;7;5.3;13;22.3
+860;Nationeel Beef Jerky;Nationeel;17;17;15;t;t;31;11;21.2;21.1;18.9
+861;Nationeel Chocolate Donuts;Nationeel;84;8.95;6.94;f;f;25;11;4.78;8.6;15.8
+862;Nationeel Low Fat Chips;Nationeel;12;9.7;8.69;f;f;29;12;19.4;14.4;7.51
+863;Nationeel Sesame Crackers;Nationeel;82;10.8;7.8;t;t;25;14;7.5;4.84;16.5
+864;Nationeel Frosted Cookies;Nationeel;45;12.5;10.5;t;t;34;5;6.4;15.2;12.9
+865;Nationeel Dried Apples;Nationeel;109;9.63;7.63;t;f;22;11;12.6;6.39;3.2
+866;Nationeel Apple Fruit Roll;Nationeel;109;11.2;10.1;f;t;26;14;13.2;16.7;14.5
+867;Nationeel Strawberry Fruit Roll;Nationeel;109;12.3;11.3;t;t;23;8;12.5;19.4;8.48
+868;Nationeel Raspberry Fruit Roll;Nationeel;109;14.4;12.3;t;f;5;13;15.3;6.52;9.72
+869;Nationeel Grape Fruit Roll;Nationeel;109;17;15;t;f;15;5;9.3;11.4;8.3
+870;Nationeel Dried Dates;Nationeel;109;20;18;t;f;9;12;14.8;11.8;14.2
+871;Nationeel Raisins;Nationeel;109;17.1;14.1;t;t;9;12;22.4;5.29;9.54
+872;Nationeel Golden Raisins;Nationeel;109;19.2;16.2;f;f;9;5;4.08;19;20.7
+873;Nationeel Dried Apricots;Nationeel;109;13.4;12.3;f;f;17;6;18.8;18.9;21.9
+874;Nationeel Frosted Donuts;Nationeel;84;11.4;10.3;f;f;28;8;20.9;20.1;14.4
+875;Thresher Tasty Candy Bar;Thresher;36;17.5;16.5;t;t;26;10;6.35;6.51;11.8
+876;Thresher Mint Chocolate Bar;Thresher;36;20.9;17.8;f;t;23;12;15.9;12.5;17.6
+877;Thresher Malted Milk Balls;Thresher;36;10.3;8.3;t;f;7;7;22.8;19.8;5.32
+878;Thresher Semi-Sweet Chocolate Bar;Thresher;36;18.8;17.7;t;f;4;5;16.5;11.8;9.55
+879;Thresher Bubble Gum;Thresher;37;11.7;9.69;t;t;9;11;3.56;8.31;11.1
+880;Thresher Spicy Mints;Thresher;38;11.1;8.1;f;f;34;11;10.8;8.53;13.2
+881;Thresher Mints;Thresher;38;7.2;5.19;f;f;7;7;10.9;17.1;14.2
+882;Thresher White Chocolate Bar;Thresher;36;11.5;9.5;t;t;26;9;5.17;5.5;14.7
+883;Monarch Ravioli;Monarch;5;8.2;5.19;t;f;18;10;8.85;22.2;5.2
+884;Monarch Manicotti;Monarch;5;13;10;f;f;22;12;5.3;7.26;15.5
+885;Monarch Spaghetti;Monarch;5;13.3;11.3;t;t;35;10;7.64;21.9;19.8
+886;Monarch Thai Rice;Monarch;57;8.44;6.43;f;f;7;6;17.1;18.6;13.2
+887;Monarch Rice Medly;Monarch;57;13.2;11.1;f;f;24;5;3.7;18.1;21.1
+888;Discover Ravioli;Discover;5;8.06;6.06;f;t;5;6;8.42;13.5;14.6
+889;Discover Manicotti;Discover;5;16;14;t;f;7;5;22.4;17.8;16.4
+890;Discover Spaghetti;Discover;5;21.7;20.7;t;t;6;10;3.54;5.15;21.5
+891;Discover Thai Rice;Discover;57;19.3;17.2;f;f;9;13;12;13;21.6
+892;Discover Rice Medly;Discover;57;14.5;13.5;t;f;27;9;20.6;5.19;20
+893;Pearl Imported Beer;Pearl;43;11.6;8.6;f;f;33;7;6.52;18.5;20.3
+894;Pearl Light Wine;Pearl;44;9.87;6.86;t;f;11;5;15.9;11.7;5.89
+895;Pearl Chardonnay Wine;Pearl;44;16.2;15.2;f;f;2;6;7.95;10;18.8
+896;Pearl Chablis Wine;Pearl;44;10.7;8.69;f;f;31;12;12;15.2;20.5
+897;Pearl Merlot Wine;Pearl;44;9.01;7.01;f;f;8;11;21.5;8.46;6.07
+898;Pearl Chardonnay;Pearl;44;15.4;12.3;f;f;34;12;13.4;6.68;19
+899;Pearl White Zinfandel Wine;Pearl;44;19.9;17.8;f;f;20;13;17.3;13.6;12.6
+900;Pearl Light Beer;Pearl;43;10.3;8.3;f;f;11;5;9.28;11.8;5.64
+901;Fantastic Pumpernickel Bread;Fantastic;27;13.5;11.5;t;f;23;13;4.06;13.2;14.6
+902;Fantastic White Bread;Fantastic;27;9.8;8.8;t;f;18;8;15.4;18.7;17.7
+903;Fantastic Rye Bread;Fantastic;27;21.4;18.3;t;t;4;14;16.1;13.1;8.45
+904;Fantastic English Muffins;Fantastic;26;7.94;4.94;t;f;28;6;12.9;15.9;9.44
+905;Fantastic Cranberry Muffins;Fantastic;26;20.5;18.5;f;f;25;8;17.2;19.3;4.88
+906;Fantastic Muffins;Fantastic;26;11.6;9.6;f;f;26;9;5.1;5.63;14.5
+907;Fantastic Bagels;Fantastic;25;6.04;4.03;t;t;27;5;17.1;12.1;10.6
+908;Fantastic Blueberry Muffins;Fantastic;26;18.6;16.6;t;t;19;10;12.5;3.32;13.6
+909;Fantastic Wheat Bread;Fantastic;27;10.6;8.6;f;t;13;7;13.9;4.15;10.5
+910;BBB Best Sesame Oil;BBB Best;49;15.4;14.3;f;t;13;7;6.97;20;16.3
+911;BBB Best Chunky Peanut Butter;BBB Best;53;6.97;3.96;f;t;10;14;7.18;17.5;13.3
+912;BBB Best Hot Chocolate;BBB Best;51;14.5;11.5;t;t;19;13;16.2;7.19;22.8
+913;BBB Best Brown Sugar;BBB Best;50;14.3;12.3;t;f;24;11;18.3;3.01;22.3
+914;BBB Best White Sugar;BBB Best;50;6.76;3.76;t;t;3;6;13;8.32;16.5
+915;BBB Best French Roast Coffee;BBB Best;90;17.1;15.1;f;f;34;6;5.87;10.4;12.6
+916;BBB Best Decaf Coffee;BBB Best;90;15.2;13.1;t;f;6;6;16.8;14.7;18.2
+917;BBB Best Regular Coffee;BBB Best;90;17.2;15.2;f;f;16;11;4.02;21.5;22.6
+918;BBB Best Vegetable Oil;BBB Best;49;13.5;11.5;f;t;15;13;17.7;9.12;3.72
+919;BBB Best Corn Oil;BBB Best;49;15.5;13.5;t;t;4;7;20.5;16.2;4.95
+920;BBB Best Tomato Sauce;BBB Best;48;8.09;6.09;t;f;30;11;3.86;4.84;16.6
+921;BBB Best Canola Oil;BBB Best;49;16.1;14.1;f;f;30;13;14.7;13.4;6.04
+922;BBB Best Grape Preserves;BBB Best;33;13.2;10.1;f;t;30;13;22.2;6.85;21.3
+923;BBB Best Columbian Coffee;BBB Best;90;16.2;14.2;f;f;18;8;8.02;16.2;22.2
+924;BBB Best Strawberry Jelly;BBB Best;31;21.2;18.2;f;f;30;5;13.1;15.4;10.7
+925;BBB Best Pepper;BBB Best;4;11.4;9.39;f;t;4;5;18.3;12.9;13
+926;BBB Best Low Fat Apple Butter;BBB Best;33;8.86;6.85;t;t;25;11;19.1;21.9;10.7
+927;BBB Best Salt;BBB Best;4;7.72;5.71;f;t;36;9;15.9;19.8;15.4
+928;BBB Best Apple Butter;BBB Best;33;9.38;7.38;t;t;33;12;15.1;8.04;21.8
+929;BBB Best Oregano;BBB Best;4;12.8;11.8;t;f;28;8;14.7;19.6;10.1
+930;BBB Best Apple Jelly;BBB Best;31;7.65;4.65;t;f;5;14;19.2;6.24;8.64
+931;BBB Best Grape Jam;BBB Best;32;20.2;17.2;f;f;9;10;3.29;20.7;9.08
+932;BBB Best Apple Jam;BBB Best;32;12.2;10.1;f;f;3;14;15.8;9.33;13.4
+933;BBB Best Strawberry Jam;BBB Best;32;10.2;9.19;t;t;28;5;19.2;17.3;8.37
+934;BBB Best Creamy Peanut Butter;BBB Best;53;12.8;11.8;f;f;20;11;3.14;7.76;9.45
+935;BBB Best Strawberry Preserves;BBB Best;33;7.54;4.53;f;t;6;11;19.4;8.78;20.4
+936;BBB Best Extra Chunky Peanut Butter;BBB Best;53;6.49;5.48;f;f;23;8;4.29;3.42;17.6
+937;BBB Best Apple Preserves;BBB Best;33;21.8;18.7;t;t;25;10;3.3;18;12.2
+938;BBB Best Grape Jelly;BBB Best;31;17;14;t;f;32;13;10.6;8.03;5.65
+939;Fabulous Berry Juice;Fabulous;30;10.8;8.8;f;f;19;13;3.2;11.2;16.9
+940;Fabulous Mango Drink;Fabulous;52;14.5;12.5;f;f;23;11;21.4;11.4;20.8
+941;Fabulous Strawberry Drink;Fabulous;52;18.3;16.2;f;f;35;10;10.6;20.6;11.9
+942;Fabulous Cream Soda;Fabulous;19;17.7;14.7;f;f;13;13;7.84;6.4;16.4
+943;Fabulous Diet Soda;Fabulous;19;18.6;16.6;t;f;1;12;12.4;8.69;11.2
+944;Fabulous Cola;Fabulous;19;16.4;15.3;t;f;17;13;19.9;14;21.9
+945;Fabulous Diet Cola;Fabulous;19;12.3;9.3;f;f;5;12;19.2;8.24;13.2
+946;Fabulous Orange Juice;Fabulous;30;6;4;t;f;2;11;5.4;21.1;10.2
+947;Fabulous Cranberry Juice;Fabulous;30;16;15;t;f;11;8;7.47;18.5;16.9
+948;Fabulous Apple Juice;Fabulous;30;16.9;13.8;f;f;34;7;12;20.8;11.6
+949;Fabulous Apple Drink;Fabulous;52;10.6;8.6;t;f;32;5;18.2;13.7;8.66
+950;Special Oatmeal;Special;35;9.56;6.56;f;f;25;8;3.69;15;10.8
+951;Special Corn Puffs;Special;35;16.1;15.1;t;f;17;14;19.4;19.1;8.19
+952;Special Wheat Puffs;Special;35;21.8;19.7;t;f;10;13;21.4;10.8;8.28
+953;Special Grits;Special;35;17;16;t;t;17;13;19.9;8.62;9.15
+954;Just Right Canned Beets;Just Right;62;8.66;6.65;t;f;32;6;8.79;9.41;3.67
+955;Just Right Creamed Corn;Just Right;62;15.2;13.1;f;f;3;12;15.8;5.78;5.86
+956;Just Right Canned String Beans;Just Right;62;10;9;t;t;13;6;22;12.3;19.3
+957;Just Right Chicken Soup;Just Right;58;13.5;12.5;t;t;10;11;20.4;10.6;17.6
+958;Just Right Canned Yams;Just Right;62;19.7;18.7;t;f;34;6;22;14.6;17.6
+959;Just Right Vegetable Soup;Just Right;58;17.2;15.2;f;f;2;13;12;13.6;17.7
+960;Just Right Canned Tomatos;Just Right;62;18;16;f;t;23;6;6.49;10.6;14.4
+961;Just Right Noodle Soup;Just Right;58;9.1;7.1;f;t;35;12;4.49;11.4;21.6
+962;Just Right Regular Ramen Soup;Just Right;58;9.31;6.31;t;t;10;7;9.47;15.1;13.2
+963;Just Right Chicken Noodle Soup;Just Right;58;20.5;18.5;t;t;6;13;6.68;10.6;9.16
+964;Just Right Turkey Noodle Soup;Just Right;58;16.7;14.7;f;f;24;6;19.7;16.1;7.25
+965;Just Right Beef Soup;Just Right;58;17.3;16.2;f;t;10;10;6.67;3.18;16.4
+966;Just Right Canned Peas;Just Right;62;8.02;5.02;t;f;20;11;11;10.5;11.2
+967;Just Right Chicken Ramen Soup;Just Right;58;12.3;11.3;t;t;34;11;15.2;4.49;14.2
+968;Just Right Canned Tuna in Water;Just Right;93;9.48;8.47;f;t;16;14;11.1;12.3;12
+969;Just Right Canned Tuna in Oil;Just Right;93;7.43;5.42;f;f;4;13;3.37;8.02;22
+970;Just Right Large Canned Shrimp;Just Right;94;13.9;12.8;f;t;3;14;6.05;6.26;7.29
+971;Just Right Fancy Canned Anchovies;Just Right;95;10.1;7.1;t;t;9;12;8.07;12.9;12.8
+972;Just Right Fancy Canned Clams;Just Right;96;7.65;5.65;f;f;6;8;7.93;17.4;15.5
+973;Just Right Fancy Canned Oysters;Just Right;97;14.8;12.8;f;t;36;11;4.08;9.35;12.6
+974;Just Right Fancy Canned Sardines;Just Right;98;6.89;4.88;t;t;24;6;15.3;15.7;12
+975;Just Right Rice Soup;Just Right;58;7.12;6.11;f;t;14;7;18.9;12.6;21.3
+976;Big City Canned Mixed Fruit;Big City;3;17.8;16.7;t;f;33;6;16.4;11.5;19.7
+977;Big City Canned Peaches;Big City;3;11.6;8.6;t;f;26;12;8.07;10.3;16
+978;Symphony Rosy Sunglasses;Symphony;89;17.4;15.3;t;f;36;7;8.03;4.31;11.1
+979;James Bay Eyeglass Screwdriver;James Bay;103;18.3;16.2;f;f;29;8;13.3;22.1;5.88
+980;James Bay City Map;James Bay;102;10.1;7.1;t;f;28;9;12.1;19.3;3.45
+981;Even Better Low Fat Cottage Cheese;Even Better;15;19.7;17.7;f;f;20;11;19.1;7.8;20.4
+982;Even Better Low Fat Sour Cream;Even Better;14;12.3;9.3;f;f;5;14;21.9;9.76;7.17
+983;Even Better Sour Cream;Even Better;14;20.3;18.2;f;f;34;9;14.4;18.3;11.5
+984;Even Better Jack Cheese;Even Better;11;6.33;4.32;t;t;20;10;19.1;18.8;20.1
+985;Even Better Muenster Cheese;Even Better;11;12;9;t;t;12;11;20.1;6.21;5.26
+986;Even Better String Cheese;Even Better;11;14.6;12.6;f;t;21;8;13.9;22.2;8.84
+987;Even Better Low Fat String Cheese;Even Better;11;18.6;16.6;f;f;15;13;4.16;4.98;9.5
+988;Even Better Havarti Cheese;Even Better;11;6.94;3.94;t;f;11;11;8.48;7.78;7.51
+989;Even Better Head Cheese;Even Better;11;13.1;10.1;t;f;18;13;10.4;9.59;17.4
+990;Even Better Cheese Spread;Even Better;11;7.91;6.9;t;f;13;9;18;22.9;13.3
+991;Even Better Sharp Cheddar Cheese;Even Better;11;17.2;16.2;t;f;15;12;17.3;10.5;22.3
+992;Even Better Mild Cheddar Cheese;Even Better;11;8.89;6.89;f;f;7;11;16.3;5.74;14.3
+993;Even Better Large Curd Cottage Cheese;Even Better;15;15.9;13.8;t;t;7;12;4.21;12;3.99
+994;Even Better 2% Milk;Even Better;76;15.7;12.6;f;f;6;7;6.54;16.7;18.4
+995;Even Better Buttermilk;Even Better;76;21.7;19.7;f;f;35;5;15;16;16.5
+996;Even Better Chocolate Milk;Even Better;76;14.8;12.8;t;f;6;5;20.6;12.2;18.7
+997;Even Better 1% Milk;Even Better;76;21.8;18.7;t;f;23;14;13.1;7.18;6.57
+998;Even Better Whole Milk;Even Better;76;8.02;6.02;f;f;20;11;21.7;5.95;6.29
+999;Even Better Strawberry Yogurt;Even Better;6;17.1;15.1;t;t;26;11;7.42;22.1;8.43
+1000;Even Better Blueberry Yogurt;Even Better;6;7.42;5.42;t;f;33;13;9.23;15;3.37
+1001;American Chicken Hot Dogs;American;81;19.9;18.8;f;t;13;13;14.5;11.7;8.82
+1002;American Pimento Loaf;American;91;7.49;6.48;t;t;33;12;22.8;15.6;9.61
+1003;American Beef Bologna;American;91;14.2;11.1;t;f;19;13;16.8;10.7;16.9
+1004;American Low Fat Bologna;American;91;15.8;13.8;t;f;5;8;17.2;12.2;13.2
+1005;American Turkey Hot Dogs;American;81;21.9;18.8;t;f;9;13;22.3;9.73;15.6
+1006;American Foot-Long Hot Dogs;American;81;8.4;5.39;f;f;29;9;8.49;6.85;16.7
+1007;American Low Fat Cole Slaw;American;16;7.26;5.26;f;t;5;7;5.29;4.83;21.4
+1008;American Cole Slaw;American;16;19.9;17.8;f;f;3;11;19.2;4.86;4.39
+1009;American Roasted Chicken;American;77;12.3;10.3;t;f;33;7;4.08;4.62;16.1
+1010;American Corned Beef;American;8;7.19;6.19;t;t;10;12;8.61;11.1;14.6
+1011;American Sliced Turkey;American;8;14.8;13.8;f;t;13;8;7.35;17.5;11.6
+1012;American Sliced Ham;American;8;6.81;3.8;f;t;7;12;19.8;6.15;16
+1013;American Potato Salad;American;16;20.7;18.7;t;t;4;7;3.31;14.1;10.9
+1014;American Sliced Chicken;American;8;7.32;5.32;t;f;24;10;7.19;4.58;12
+1015;National Small Brown Eggs;National;66;18;17;t;t;11;9;3.48;5.61;3.04
+1016;National Large Brown Eggs;National;66;17;15;f;t;34;10;8.34;20.2;20.2
+1017;National Small Eggs;National;66;21.3;19.2;f;t;23;10;12.6;3.04;18.2
+1018;National Large Eggs;National;66;16.6;14.6;f;t;8;6;19.9;12.9;11.6
+1019;National Egg Substitute;National;66;21.3;19.2;f;t;24;11;7.25;8.04;19.5
+1020;PigTail Low Fat Waffles;PigTail;34;14.7;12.6;f;f;26;6;6.61;15.6;8.48
+1021;PigTail Orange Popsicles;PigTail;110;12.6;10.6;f;t;23;8;10.7;19.1;3.39
+1022;PigTail Frozen Chicken Breast;PigTail;100;12.5;10.5;t;t;27;13;20.2;16.1;15.3
+1023;PigTail Frozen Pancakes;PigTail;29;14.1;13.1;f;t;25;5;10.7;12;9.2
+1024;PigTail Low Fat French Fries;PigTail;63;7.54;6.53;t;f;9;11;8.98;6.3;8.15
+1025;PigTail Frozen Sausage Pizza;PigTail;64;18.7;16.7;f;f;14;12;7.48;4.02;9.02
+1026;PigTail Blueberry Waffles;PigTail;34;11.2;9.19;t;f;7;7;20.3;20.4;13.2
+1027;PigTail Fajita French Fries;PigTail;63;6.88;4.88;t;f;29;11;18.2;12.3;4.41
+1028;PigTail Waffles;PigTail;34;17.6;16.6;t;f;11;9;4.47;18.9;17.9
+1029;PigTail Frozen Pepperoni Pizza;PigTail;64;6.06;3.05;f;t;30;7;6.95;12.8;5.94
+1030;PigTail Frozen Cheese Pizza;PigTail;64;12.6;9.6;t;t;10;6;13.5;6.91;20.7
+1031;PigTail Frozen Mushroom Pizza;PigTail;64;10.1;8.1;t;t;13;13;3.52;5.91;20.9
+1032;PigTail Apple Cinnamon Waffles;PigTail;34;15.9;14.8;f;f;29;12;3.3;11;20.9
+1033;PigTail Frozen Carrots;PigTail;60;6.99;4.98;f;f;12;13;21.2;11.7;8.15
+1034;PigTail Turkey TV Dinner;PigTail;10;21.9;19.8;t;f;23;7;6.33;15.3;20.3
+1035;PigTail Chicken TV Dinner;PigTail;10;18.4;16.3;t;f;17;13;3.49;10.9;15.7
+1036;PigTail Beef TV Dinner;PigTail;10;14.5;13.5;t;t;35;6;16.5;16.5;13.8
+1037;PigTail Pancake Mix;PigTail;28;13.9;11.8;t;f;14;7;14.4;17.8;18.3
+1038;PigTail Grape Popsicles;PigTail;110;16.5;14.5;f;t;5;7;17.5;12.7;19.4
+1039;PigTail Home Style French Fries;PigTail;63;9.94;7.93;f;f;13;12;7.03;14.8;5.92
+1040;PigTail Lime Popsicles;PigTail;110;17;15;f;t;14;8;13.6;18.9;10.5
+1041;PigTail Ice Cream;PigTail;9;20;18;f;t;2;7;11.1;22.7;4.03
+1042;PigTail Ice Cream Sandwich;PigTail;9;16.6;14.6;t;f;14;6;17.6;17.2;16.8
+1043;PigTail Frozen Cauliflower;PigTail;60;7.77;5.76;f;t;26;8;14.3;15.8;19
+1044;PigTail Frozen Broccoli;PigTail;60;10.2;8.19;t;t;17;10;19.5;8.5;5.11
+1045;PigTail Frozen Corn;PigTail;60;12.7;11.6;t;f;9;11;15.3;22.2;13.7
+1046;PigTail Frozen Peas;PigTail;60;9.84;7.84;t;t;32;7;11.8;16.8;16.5
+1047;PigTail Popsicles;PigTail;9;10;8;t;f;16;13;15.5;13.7;5.81
+1048;PigTail Frozen Chicken Thighs;PigTail;100;19.5;17.5;t;t;35;12;13;12.4;4.74
+1049;PigTail Frozen Chicken Wings;PigTail;100;8.35;5.35;f;f;27;14;19.3;3.07;17.6
+1050;PigTail Lemon Popsicles;PigTail;110;15.3;13.3;t;f;8;8;19.2;17.2;12.1
+1051;Bird Call Silky Smooth Hair Conditioner;Bird Call;78;13.4;11.3;f;f;20;13;10.1;10.7;17.1
+1052;Bird Call Tartar Control Toothpaste;Bird Call;39;17;16;f;f;29;6;8.47;10.9;21
+1053;Bird Call Whitening Toothpast;Bird Call;39;18.5;15.5;f;f;8;12;13.6;9.94;10.6
+1054;Bird Call Toothpaste;Bird Call;39;14;11;f;f;34;8;9.44;5.17;7.03
+1055;Bird Call Deodorant;Bird Call;39;17.6;15.6;f;f;9;10;7.73;5.43;10.8
+1056;Bird Call Conditioning Shampoo;Bird Call;79;15.3;14.3;t;f;25;8;13;3.88;22
+1057;Bird Call Extra Moisture Shampoo;Bird Call;79;18.9;16.8;t;f;35;10;11.3;4.13;5.89
+1058;Bird Call Angled Toothbrush;Bird Call;88;14.4;11.3;t;f;26;6;7.17;19.3;22.3
+1059;Bird Call Apricot Shampoo;Bird Call;79;16.2;15.2;t;f;1;12;17.3;8.38;6.75
+1060;Bird Call Childrens Aspirin;Bird Call;70;19.9;17.8;f;f;5;10;15.6;8.64;10.6
+1061;Bird Call Buffered Aspirin;Bird Call;70;15.4;13.3;f;f;2;9;11.4;3.87;7.03
+1062;Bird Call 200 MG Ibuprofen;Bird Call;71;19;17;t;f;16;7;9.71;4.12;10.8
+1063;Bird Call 200 MG Acetominifen;Bird Call;72;20.5;17.5;t;f;25;9;14.8;3.1;20.4
+1064;Bird Call HCL Nasal Spray;Bird Call;73;17.3;16.2;t;f;15;5;10.6;18.5;16.3
+1065;Bird Call Dishwasher Detergent;Bird Call;73;20.9;18.8;t;f;25;7;8.92;18.7;20.2
+1066;Bird Call Multi-Symptom Cold Remedy;Bird Call;75;17.3;16.2;f;f;4;14;8.78;9.61;6.34
+1067;Bird Call Childrens Cold Remedy;Bird Call;75;12.8;10.8;t;f;35;14;4.58;4.84;22.7
+1068;Bird Call Laundry Detergent;Bird Call;74;16.5;13.5;f;f;4;12;22.8;5.1;6.62
+1069;Bird Call Mint Mouthwash;Bird Call;74;18;15;f;f;24;13;8.04;4.07;16.1
+1070;High Quality 60 Watt Lightbulb;High Quality;80;21.6;20.6;f;f;28;12;6.34;4.33;20
+1071;High Quality Plastic Forks;High Quality;56;18.4;16.3;f;f;18;8;22;19.7;15.9
+1072;High Quality Plastic Spoons;High Quality;56;20.2;18.2;t;f;28;14;12.2;8.75;20.3
+1073;High Quality Plastic Knives;High Quality;56;7.86;5.86;t;f;32;12;10.5;9.01;4.23
+1074;High Quality C-Size Batteries;High Quality;101;19.3;18.2;t;f;29;11;6.33;4.24;20.6
+1075;High Quality 100 Watt Lightbulb;High Quality;80;20.8;18.7;f;f;8;9;11.5;3.22;10.2
+1076;High Quality AAA-Size Batteries;High Quality;101;8.48;6.47;f;f;17;11;9.79;3.47;14
+1077;High Quality Paper Plates;High Quality;55;19.9;17.8;f;f;8;7;5.59;18.7;10.5
+1078;High Quality Paper Cups;High Quality;55;7.63;4.63;f;f;18;9;3.88;18.9;14.3
+1079;High Quality 75 Watt Lightbulb;High Quality;80;21.3;19.2;f;f;25;12;3.69;9.98;19.9
+1080;High Quality Toilet Bowl Cleaner;High Quality;22;21.8;20.7;t;f;27;7;4.8;13.3;19.8
+1081;High Quality Counter Cleaner;High Quality;22;9.51;7.51;f;f;31;14;3.09;13.5;3.67
+1082;High Quality Glass Cleaner;High Quality;22;21.9;18.8;t;f;10;12;22.9;4.44;9.81
+1083;High Quality 25 Watt Lightbulb;High Quality;80;9.61;8.6;t;f;14;10;21.2;4.7;13.6
+1084;High Quality AA-Size Batteries;High Quality;101;10.1;7.1;t;f;16;13;22.3;8.06;13.5
+1085;High Quality D-Size Batteries;High Quality;101;6.88;4.88;f;f;15;12;7.2;8.95;14.5
+1086;High Quality Paper Towels;High Quality;18;10.5;7.5;f;f;19;10;5.49;9.2;18.3
+1087;High Quality Soft Napkins;High Quality;18;7.26;5.26;f;f;24;13;6.78;12;19.8
+1088;High Quality Scented Tissue;High Quality;18;19.7;16.7;f;f;32;7;6.64;22.8;5.95
+1089;High Quality Toilet Paper;High Quality;18;7.36;5.36;t;f;7;9;4.93;3.14;9.8
+1090;High Quality Tissues;High Quality;18;7.88;4.88;t;f;4;9;6.04;6.5;9.66
+1091;High Quality Scented Toilet Tissue;High Quality;18;11.5;9.5;t;f;13;11;4.33;6.75;13.5
+1092;High Quality Room Freshener;High Quality;20;7.97;5.96;t;f;21;14;4.2;17.6;19.6
+1093;High Quality Frying Pan;High Quality;40;20.7;19.7;t;f;17;14;19.9;13;15.5
+1094;High Quality Copper Cleaner;High Quality;87;8.39;6.39;t;f;21;12;18.2;13.2;19.4
+1095;High Quality Bees Wax Candles;High Quality;47;9.85;7.85;f;f;5;13;3.4;12.2;8.97
+1096;High Quality Silver Cleaner;High Quality;87;13.5;11.5;t;f;9;12;21.6;12.4;12.8
+1097;High Quality Copper Pot Scrubber;High Quality;86;9.01;8.01;f;f;6;11;17.4;7.73;9.25
+1098;High Quality Economy Toilet Brush;High Quality;85;21.7;18.7;t;f;11;13;22.3;8.62;10.2
+1099;High Quality Scissors;High Quality;41;9.42;7.42;t;f;20;6;20.6;8.87;14.1
+1100;High Quality Large Sponge;High Quality;42;20.9;18.8;t;f;11;11;16.4;4.1;10.5
+1101;High Quality Screw Driver;High Quality;41;7.64;5.63;t;f;30;13;21.5;3.26;19.5
+1102;Genteel Extra Lean Hamburger;Genteel;65;11.3;8.3;t;f;34;11;19.8;3.51;3.42
+1103;Genteel Seasoned Hamburger;Genteel;65;11.1;9.1;t;f;15;13;9.87;7.1;20.3
+1104;Mighty Good Monthly Sports Magazine;Mighty Good;104;15;14;f;f;8;12;11.7;4.31;13.5
+1105;Mighty Good Monthly Auto Magazine;Mighty Good;108;13.7;10.6;f;f;6;11;3.29;5.32;13.9
+1106;Mighty Good Monthly Computer Magazine;Mighty Good;107;6.5;4.5;f;f;16;8;5.42;22.5;21.2
+1107;Mighty Good Monthly Home Magazine;Mighty Good;105;18.3;17.2;f;f;4;7;4.73;16.7;12.5
+1108;Mighty Good Monthly Fashion Magazine;Mighty Good;106;18.3;17.2;t;f;6;9;16.1;17.9;12.4
+1109;Tri-State Summer Squash;Tri-State;61;19.2;17.2;f;f;16;6;20.7;20.2;7.12
+1110;Tri-State Corn on the Cob;Tri-State;61;12.7;10.6;f;f;19;9;18.8;5.58;11
+1111;Tri-State Asparagus;Tri-State;61;17.9;14.8;t;f;15;11;8.54;6.23;3.8
+1112;Tri-State Sweet Peas;Tri-State;61;19.9;18.8;f;t;4;5;11.3;13.3;5.03
+1113;Tri-State New Potatos;Tri-State;61;17.5;14.5;f;f;30;10;19.9;10;20.1
+1114;Tri-State Beets;Tri-State;61;20.6;19.6;t;t;36;6;5.53;10.5;6.13
+1115;Tri-State Prepared Salad;Tri-State;61;6.66;4.65;t;f;1;6;18.4;12;4.86
+1116;Tri-State Onions;Tri-State;61;15.9;13.8;t;f;33;13;14.9;17.1;14.2
+1117;Tri-State Green Pepper;Tri-State;61;12;10;t;t;11;14;17.8;8.3;14.8
+1118;Tri-State Shitake Mushrooms;Tri-State;61;11.9;9.89;t;f;15;8;8.09;20.7;6.77
+1119;Tri-State Lettuce;Tri-State;61;7.66;5.65;t;f;25;13;6.97;6.3;7.49
+1120;Tri-State Elephant Garlic;Tri-State;61;16.1;15.1;f;f;21;7;21.8;20.5;16.7
+1121;Tri-State Red Pepper;Tri-State;61;9.55;6.55;t;t;29;7;10;20.3;18.1
+1122;Tri-State Garlic;Tri-State;61;15.2;14.1;t;f;30;5;22.3;19.9;8.15
+1123;Tri-State Potatos;Tri-State;61;8.17;6.17;f;t;7;6;9.43;16.4;9.74
+1124;Tri-State Cauliflower;Tri-State;61;6.63;5.63;t;f;21;12;12.6;21;22.1
+1125;Tri-State Tomatos;Tri-State;61;19.6;18.6;t;t;33;10;20.3;3.3;12.4
+1126;Tri-State Mushrooms;Tri-State;61;17.1;15.1;t;f;18;12;21.1;12.3;10
+1127;Tri-State Baby Onion;Tri-State;61;12.8;11.8;f;t;22;11;20.7;13.3;10.8
+1128;Tri-State Dried Mushrooms;Tri-State;61;17.6;15.6;t;f;32;8;17.2;18.4;21.1
+1129;Tri-State Fresh Lima Beans;Tri-State;61;18.8;17.7;t;f;21;9;3.62;8.78;15.1
+1130;Tri-State Squash;Tri-State;61;14;11;t;f;25;7;4.04;19.9;3.46
+1131;Tri-State Limes;Tri-State;99;13.7;12.6;f;f;6;6;5.27;11.2;7.91
+1132;Tri-State Firm Tofu;Tri-State;67;13.6;11.6;f;f;23;7;15.3;14.8;4.85
+1133;Tri-State Almonds;Tri-State;1;17.5;15.5;t;t;26;6;17.2;12;18
+1134;Tri-State Macintosh Apples;Tri-State;99;21;20;t;f;19;7;5.17;18.1;8.81
+1135;Tri-State Golden Delcious Apples;Tri-State;99;7.61;4.61;f;t;27;13;18.9;14.1;12.3
+1136;Tri-State Red Delcious Apples;Tri-State;99;13.7;11.6;t;t;11;9;22.2;18.2;7.34
+1137;Tri-State Lemons;Tri-State;99;17.1;16.1;f;f;16;7;13.4;19.9;10.5
+1138;Tri-State Fancy Plums;Tri-State;99;13.7;10.6;t;t;2;7;9.76;15.5;8.48
+1139;Tri-State Plums;Tri-State;99;9.37;7.36;t;t;23;12;10.4;9.92;19.2
+1140;Tri-State Peaches;Tri-State;99;10.5;8.5;f;t;12;13;7.34;12.4;20.7
+1141;Tri-State Broccoli;Tri-State;61;10.3;8.3;f;f;27;13;8.76;12.7;20.1
+1142;Tri-State Mandarin Oranges;Tri-State;99;15.2;13.1;f;t;27;5;3.55;17.8;15.5
+1143;Tri-State Mixed Nuts;Tri-State;1;8.69;7.68;f;f;12;13;11.5;8.72;21.9
+1144;Tri-State Canned Peanuts;Tri-State;1;21.2;18.2;t;f;4;8;6.96;19.8;4.93
+1145;Tri-State Sweet Onion;Tri-State;61;21.4;20.3;f;f;12;9;7.21;7.66;9.67
+1146;Tri-State Cantelope;Tri-State;99;18;16;t;f;32;6;21.3;16.5;7.61
+1147;Tri-State Honey Dew;Tri-State;99;9.62;7.61;f;f;30;12;21.5;14;4.63
+1148;Tri-State Fuji Apples;Tri-State;99;13.1;11.1;f;f;15;5;9.33;11.2;20.4
+1149;Tri-State Walnuts;Tri-State;1;19.7;16.7;f;t;17;5;4.93;6.41;22.7
+1150;Tri-State Oranges;Tri-State;99;9.1;7.1;t;f;32;9;22.4;14.8;12.9
+1151;Tri-State Tangerines;Tri-State;99;15.6;14.6;t;t;30;8;19;14.4;10.2
+1152;Tri-State Party Nuts;Tri-State;1;13.6;12.6;t;f;23;9;21.2;4.59;17.7
+1153;Dual City Lox;Dual City;24;18.8;16.7;t;f;33;11;22;8.64;20.4
+1154;Dual City Scallops;Dual City;2;12.7;10.6;t;f;3;11;21.7;4.04;9.2
+1155;Horatio Low Fat Cookies;Horatio;45;16.1;15.1;f;f;12;10;21.4;4.56;12.5
+1156;Horatio BBQ Potato Chips;Horatio;12;9.16;8.15;t;t;23;13;17.3;13.2;6.59
+1157;Horatio Corn Chips;Horatio;12;20.4;18.3;t;f;12;9;13.9;22;17.4
+1158;Horatio Low Fat BBQ Chips;Horatio;12;14.2;12.1;f;t;35;13;15.5;6.34;16.2
+1159;Horatio Sugar Cookies;Horatio;45;16.7;14.7;t;t;28;7;22.4;3.54;14.7
+1160;Horatio Chocolate Chip Cookies;Horatio;45;11;8;t;t;1;10;6.24;4.53;3.41
+1161;Horatio Fudge Cookies;Horatio;45;11.8;9.8;f;f;34;9;10.6;7.07;22.5
+1162;Horatio Fudge Brownies;Horatio;45;6.18;4.17;t;t;30;10;13.1;5.83;6.22
+1163;Horatio Potato Chips;Horatio;12;16.4;15.3;t;f;14;10;7;21.2;12.3
+1164;Horatio Lemon Cookies;Horatio;45;17.1;14.1;t;t;6;7;4.05;22.7;19
+1165;Horatio Graham Crackers;Horatio;45;18.3;15.2;t;f;25;6;10.8;10.8;3.05
+1166;Horatio Cheese Crackers;Horatio;82;18.5;17.5;f;f;20;9;4.55;22.2;9.86
+1167;Horatio Buttered Popcorn;Horatio;54;17.8;15.7;t;f;13;6;15;18.1;4.34
+1168;Horatio No Salt Popcorn;Horatio;54;18.5;16.5;t;f;29;9;10.9;6.21;21
+1169;Horatio Low Fat Popcorn;Horatio;54;15.1;13.1;f;f;15;7;14.8;11.7;6.44
+1170;Horatio Salsa Dip;Horatio;83;21.8;20.7;t;f;7;10;18.8;21.4;11.2
+1171;Horatio Avocado Dip;Horatio;83;12;9;f;t;31;8;12.2;19.9;3.69
+1172;Horatio Salted Pretzels;Horatio;46;18.7;16.7;f;f;23;10;16.4;18.4;3.48
+1173;Horatio Cheese Dip;Horatio;83;7.04;5.03;f;f;3;9;17.5;20.9;11.9
+1174;Horatio Fondue Mix;Horatio;83;19.6;17.6;f;f;6;11;12.8;3.19;19.8
+1175;Horatio Mini Donuts;Horatio;84;7.57;6.57;t;f;23;8;13.4;18.1;8.04
+1176;Horatio Beef Jerky;Horatio;17;9.63;7.63;t;t;11;11;16.2;5.26;9.27
+1177;Horatio Chocolate Donuts;Horatio;84;8.44;5.43;f;t;16;13;13.9;7.69;9
+1178;Horatio Low Fat Chips;Horatio;12;10.5;8.5;f;f;28;13;15.4;12.5;5.23
+1179;Horatio Sesame Crackers;Horatio;82;12.6;9.6;f;f;29;12;8.29;14;3.96
+1180;Horatio Frosted Cookies;Horatio;45;10.6;8.6;t;f;17;7;8.71;15.3;21.4
+1181;Horatio Dried Apples;Horatio;109;20.9;19.8;t;f;15;5;14.4;9.72;17.5
+1182;Horatio Apple Fruit Roll;Horatio;109;7.87;6.86;f;f;27;8;21.8;19;13.4
+1183;Horatio Strawberry Fruit Roll;Horatio;109;7.71;6.71;t;t;25;9;21.9;17.1;7.92
+1184;Horatio Raspberry Fruit Roll;Horatio;109;11.1;8.1;f;t;22;12;11.5;3.2;13.7
+1185;Horatio Grape Fruit Roll;Horatio;109;16.4;14.3;t;f;6;7;18.4;10.5;21.4
+1186;Horatio Dried Dates;Horatio;109;9.01;6.01;t;f;32;10;12;22.4;5.67
+1187;Horatio Raisins;Horatio;109;17.9;15.8;t;f;8;11;19.1;18.9;7.26
+1188;Horatio Golden Raisins;Horatio;109;18.6;16.6;t;t;27;7;6.34;19.3;8.82
+1189;Horatio Dried Apricots;Horatio;109;12.4;10.3;f;f;8;10;16.9;4.72;15.1
+1190;Horatio Frosted Donuts;Horatio;84;11.8;8.8;f;t;27;12;5.82;4.95;12.2
+1191;Musial Tasty Candy Bar;Musial;36;19.7;16.7;t;f;33;10;9.17;3.56;14
+1192;Musial Mint Chocolate Bar;Musial;36;13.5;12.5;f;t;9;7;10.9;16.7;7.89
+1193;Musial Malted Milk Balls;Musial;36;13.8;10.8;f;t;22;5;13.2;11.4;12.1
+1194;Musial Semi-Sweet Chocolate Bar;Musial;36;19.6;17.6;f;f;3;6;12.5;9.92;7.27
+1195;Musial Bubble Gum;Musial;37;8.49;6.48;t;f;19;14;19;9.42;15.1
+1196;Musial Spicy Mints;Musial;38;14.6;12.6;f;f;5;10;14.3;21.3;14.9
+1197;Musial Mints;Musial;38;10.3;7.3;f;f;15;12;13.7;13.5;20.7
+1198;Musial White Chocolate Bar;Musial;36;16;14;f;f;13;8;14.8;20.8;5.8
+1199;Colossal Ravioli;Colossal;5;8.6;6.6;f;t;10;7;17.9;20.6;22.5
+1200;Colossal Manicotti;Colossal;5;14.7;13.6;t;f;23;9;21.2;4.63;17.4
+1201;Colossal Spaghetti;Colossal;5;21.9;19.8;t;f;12;8;17.8;14.2;4.63
+1202;Colossal Thai Rice;Colossal;57;14.3;11.3;t;f;3;9;9.34;19.3;9.29
+1203;Colossal Rice Medly;Colossal;57;15;12;t;t;31;9;15.3;21.8;3.45
+1204;Portsmouth Imported Beer;Portsmouth;43;16.2;13.2;t;f;20;10;12.2;4.44;4.97
+1205;Portsmouth Light Wine;Portsmouth;44;19.3;17.2;f;f;4;6;9.24;12.4;13.9
+1206;Portsmouth Chardonnay Wine;Portsmouth;44;8.41;7.4;f;f;15;13;14.3;11.6;22.4
+1207;Portsmouth Chablis Wine;Portsmouth;44;21.2;18.2;t;f;20;12;17;5.9;3.39
+1208;Portsmouth Merlot Wine;Portsmouth;44;10.3;8.3;t;f;32;10;22.1;5.13;11.8
+1209;Portsmouth Chardonnay;Portsmouth;44;13.1;11.1;t;f;25;11;14.1;3.09;5.96
+1210;Portsmouth White Zinfandel Wine;Portsmouth;44;11.2;9.19;t;f;28;10;16.7;17.4;6.42
+1211;Portsmouth Light Beer;Portsmouth;43;16.3;15.2;t;f;5;8;21.8;16.7;14.8
+1212;Sphinx Pumpernickel Bread;Sphinx;27;8.16;6.15;t;t;33;9;19.1;22.8;12.4
+1213;Sphinx White Bread;Sphinx;27;18.9;16.8;t;f;31;6;15.2;14.9;8.44
+1214;Sphinx Rye Bread;Sphinx;27;17.8;15.7;f;f;25;8;20.6;16.2;10.6
+1215;Sphinx English Muffins;Sphinx;26;6.26;4.26;t;t;27;14;3.34;19;13.6
+1216;Sphinx Cranberry Muffins;Sphinx;26;13.8;11.8;f;t;18;9;13.4;22;13.1
+1217;Sphinx Muffins;Sphinx;26;18.1;16.1;f;f;11;7;9.42;14.9;6.1
+1218;Sphinx Bagels;Sphinx;25;16;14;t;f;5;6;12.6;9.53;8.63
+1219;Sphinx Blueberry Muffins;Sphinx;26;7.55;5.55;t;t;3;13;12.8;7;5.64
+1220;Sphinx Wheat Bread;Sphinx;27;10.1;7.1;t;t;35;13;16.5;8.55;11.7
+1221;Plato Sesame Oil;Plato;49;21.7;19.7;f;t;19;11;17.4;11.8;17.4
+1222;Plato Chunky Peanut Butter;Plato;53;12;9;t;t;34;6;19;15.9;17.4
+1223;Plato Hot Chocolate;Plato;51;17.3;16.2;f;t;23;11;6.52;9.87;10.1
+1224;Plato Brown Sugar;Plato;50;10.2;8.19;f;f;23;7;3.48;11.8;14.2
+1225;Plato White Sugar;Plato;50;11.4;9.39;f;f;3;9;22.9;3.41;3.13
+1226;Plato French Roast Coffee;Plato;90;9.43;7.43;t;f;32;14;3.97;11.3;5.64
+1227;Plato Decaf Coffee;Plato;90;6.23;5.23;t;f;31;6;8.08;16.6;6.64
+1228;Plato Regular Coffee;Plato;90;6.78;4.78;f;f;33;11;8.45;4.46;6.49
+1229;Plato Vegetable Oil;Plato;49;14.5;12.5;t;f;32;11;7.25;21.6;4.06
+1230;Plato Corn Oil;Plato;49;13.4;10.3;t;t;26;12;22.9;6.3;18.7
+1231;Plato Tomato Sauce;Plato;48;11.8;10.8;f;f;28;14;8.35;17.5;11.1
+1232;Plato Canola Oil;Plato;49;7.95;6.94;f;f;5;14;11.2;8.7;11.7
+1233;Plato Grape Preserves;Plato;33;20.9;17.8;f;t;23;13;17.9;11.9;11.5
+1234;Plato Columbian Coffee;Plato;90;16.7;13.7;f;f;33;9;16.8;17.4;12.2
+1235;Plato Strawberry Jelly;Plato;31;14.9;11.8;t;f;5;9;7.75;21.7;17.8
+1236;Plato Pepper;Plato;4;16.5;13.5;t;t;2;13;7.02;9.9;4.2
+1237;Plato Low Fat Apple Butter;Plato;33;9.02;6.02;f;t;32;9;11.8;9.66;15.9
+1238;Plato Salt;Plato;4;14.8;13.8;t;t;3;11;11;8.1;11
+1239;Plato Apple Butter;Plato;33;12.7;10.6;t;f;6;7;15;22.7;10.9
+1240;Plato Oregano;Plato;4;15.7;14.6;t;f;35;11;22.2;3.24;11.8
+1241;Plato Apple Jelly;Plato;31;6.42;3.42;f;f;3;10;16.3;7.3;14.1
+1242;Plato Grape Jam;Plato;32;19.9;17.8;f;f;24;12;14.9;9.62;11.8
+1243;Plato Apple Jam;Plato;32;9.7;8.69;t;t;5;8;5.94;22.5;19.4
+1244;Plato Strawberry Jam;Plato;32;19;17;t;f;24;8;6.41;3.45;18.3
+1245;Plato Creamy Peanut Butter;Plato;53;18.3;17.2;f;t;30;6;5.42;18.1;12.9
+1246;Plato Strawberry Preserves;Plato;33;14.5;13.5;t;f;15;11;16.7;3.68;16
+1247;Plato Extra Chunky Peanut Butter;Plato;53;19.3;16.2;t;f;23;14;14.9;13.2;18.8
+1248;Plato Apple Preserves;Plato;33;12.6;11.6;t;f;25;8;14.3;20.8;7.75
+1249;Plato Grape Jelly;Plato;31;9.3;7.3;t;t;22;10;18.5;4.22;3.19
+1250;Skinner Berry Juice;Skinner;30;9.17;8.17;f;f;33;10;8.03;21.1;15.1
+1251;Skinner Mango Drink;Skinner;52;11.4;8.39;t;f;28;9;19.4;22.4;14.4
+1252;Skinner Strawberry Drink;Skinner;52;21.8;19.7;f;f;24;9;12.2;4.51;10.5
+1253;Skinner Cream Soda;Skinner;19;8.77;5.77;t;f;27;9;10.7;17.2;16.4
+1254;Skinner Diet Soda;Skinner;19;8.31;7.31;t;f;7;9;8.52;20.5;6.56
+1255;Skinner Cola;Skinner;19;20.7;18.7;t;f;14;10;9.12;7;12.6
+1256;Skinner Diet Cola;Skinner;19;15.2;13.1;t;f;29;9;21.5;22.1;19.4
+1257;Skinner Orange Juice;Skinner;30;7.87;5.86;t;f;4;9;5.93;6.11;6.7
+1258;Skinner Cranberry Juice;Skinner;30;15.2;13.1;f;f;12;10;21.2;4.39;9.41
+1259;Skinner Apple Juice;Skinner;30;14.7;11.6;t;f;26;10;19;7.69;19.5
+1260;Skinner Apple Drink;Skinner;52;7.11;5.11;f;t;16;9;18.3;21.5;11.9
+1261;Johnson Oatmeal;Johnson;35;18.3;16.2;t;t;17;5;16.8;19.3;12.8
+1262;Johnson Corn Puffs;Johnson;35;11.1;10.1;f;t;6;11;11.1;7.71;12.3
+1263;Johnson Wheat Puffs;Johnson;35;10.5;7.5;f;t;25;6;8.9;20.1;21.9
+1264;Johnson Grits;Johnson;35;21.2;19.2;f;t;6;12;15.1;6.73;15.4
+1265;Pleasant Canned Beets;Pleasant;62;9.71;7.71;t;f;26;10;17.5;20.6;3.48
+1266;Pleasant Creamed Corn;Pleasant;62;10;8;f;f;27;12;9.83;20.9;10.2
+1267;Pleasant Canned String Beans;Pleasant;62;7.5;6.5;t;f;30;10;19.7;19.9;10.4
+1268;Pleasant Chicken Soup;Pleasant;58;20.5;18.5;f;t;33;11;8.88;8.95;3.14
+1269;Pleasant Canned Yams;Pleasant;62;11.5;8.5;f;f;16;12;6.88;9.72;10.3
+1270;Pleasant Vegetable Soup;Pleasant;58;20.5;18.5;t;f;4;13;22.5;9.5;9.38
+1271;Pleasant Canned Tomatos;Pleasant;62;6.12;3.11;t;t;13;7;14.1;18.7;13.2
+1272;Pleasant Noodle Soup;Pleasant;58;18.2;16.2;f;t;31;9;7.15;4.35;11.3
+1273;Pleasant Regular Ramen Soup;Pleasant;58;12.5;9.5;t;t;4;7;19.7;17.5;12.5
+1274;Pleasant Chicken Noodle Soup;Pleasant;58;20.2;19.2;t;f;36;10;8.2;20.5;17
+1275;Pleasant Turkey Noodle Soup;Pleasant;58;13.5;12.5;t;f;9;6;17.6;22.6;3.46
+1276;Pleasant Beef Soup;Pleasant;58;16.9;14.8;t;f;2;8;18.9;18.7;4.16
+1277;Pleasant Canned Peas;Pleasant;62;19.9;17.8;t;f;25;7;16.3;22.5;17.6
+1278;Pleasant Chicken Ramen Soup;Pleasant;58;20.2;19.2;t;t;9;9;8.26;5.08;14.4
+1279;Pleasant Canned Tuna in Water;Pleasant;93;6.41;3.4;t;f;16;8;19.6;15.5;13.1
+1280;Pleasant Canned Tuna in Oil;Pleasant;93;8.91;5.9;t;f;7;9;4.84;8.17;19.2
+1281;Pleasant Large Canned Shrimp;Pleasant;94;16;14;f;t;13;10;20.9;20;16.3
+1282;Pleasant Fancy Canned Anchovies;Pleasant;95;9.42;7.42;t;t;30;11;12.1;6.6;15.2
+1283;Pleasant Fancy Canned Clams;Pleasant;96;9.65;7.64;t;f;14;8;15.7;3.56;4.52
+1284;Pleasant Fancy Canned Oysters;Pleasant;97;8.46;7.46;f;f;30;7;3.6;20.4;21.7
+1285;Pleasant Fancy Canned Sardines;Pleasant;98;13.2;11.1;t;t;29;7;9.96;11;14.6
+1286;Pleasant Rice Soup;Pleasant;58;14;12;t;t;33;8;4.61;16.9;6.29
+1287;Toucan Canned Mixed Fruit;Toucan;3;17.9;15.8;t;t;32;5;4.87;14.1;4.44
+1288;Toucan Canned Peaches;Toucan;3;16.8;15.7;f;f;3;10;11.5;17.6;11.6
+1289;Toretti Rosy Sunglasses;Toretti;89;18.9;15.8;f;f;26;7;3.15;16.9;5.4
+1290;Framton Eyeglass Screwdriver;Framton;103;19.8;17.7;t;f;21;11;4.21;21.1;20.5
+1291;Framton City Map;Framton;102;20.7;19.7;t;f;8;10;8.82;3.47;15.2
+1292;Booker Low Fat Cottage Cheese;Booker;15;18.5;15.5;f;f;24;10;16.2;8.86;5.97
+1293;Booker Low Fat Sour Cream;Booker;14;8.25;5.25;f;t;22;6;17.3;16.2;11
+1294;Booker Sour Cream;Booker;14;6.75;4.75;t;t;13;10;9.88;19.7;20.9
+1295;Booker Jack Cheese;Booker;11;14.8;13.8;t;f;19;13;21.3;14.9;15.3
+1296;Booker Muenster Cheese;Booker;11;14.1;12.1;t;f;15;12;20.3;9.64;9.89
+1297;Booker String Cheese;Booker;11;21.6;18.6;t;f;30;8;11.3;17.1;4.41
+1298;Booker Low Fat String Cheese;Booker;11;6.3;5.3;t;f;22;8;17.3;19.6;18.5
+1299;Booker Havarti Cheese;Booker;11;13.8;11.8;t;t;16;12;19.5;10.5;22.9
+1300;Booker Head Cheese;Booker;11;17.3;15.2;t;f;19;5;17.1;13.2;21.2
+1301;Booker Cheese Spread;Booker;11;8.42;5.42;t;f;25;10;5.08;19.6;10.9
+1302;Booker Sharp Cheddar Cheese;Booker;11;11.9;9.89;t;t;10;8;3.68;6.77;4.24
+1303;Booker Mild Cheddar Cheese;Booker;11;12.2;10.1;f;f;6;9;15.3;20.3;6.03
+1304;Booker Large Curd Cottage Cheese;Booker;15;7.43;4.42;f;t;13;8;13.8;18.1;6.91
+1305;Booker 2% Milk;Booker;76;16.3;15.2;f;f;27;10;22.6;19;20.8
+1306;Booker Buttermilk;Booker;76;13.1;11.1;f;f;29;7;6.76;4.42;21.8
+1307;Booker Chocolate Milk;Booker;76;18.6;16.6;t;f;28;7;12.4;20.3;5.17
+1308;Booker 1% Milk;Booker;76;18.3;16.2;f;f;14;6;8.75;12.5;15.3
+1309;Booker Whole Milk;Booker;76;15.1;13.1;t;f;13;6;12.8;17.8;16.3
+1310;Booker Strawberry Yogurt;Booker;6;20.9;18.8;f;f;12;11;3.53;3.84;14.4
+1311;Booker Blueberry Yogurt;Booker;6;21.7;19.7;f;t;5;6;8.09;15.2;8.61
+1312;Lake Chicken Hot Dogs;Lake;81;12.3;11.3;f;t;26;10;13.7;4.9;8.42
+1313;Lake Pimento Loaf;Lake;91;19.4;16.3;t;t;17;7;3.03;17.9;20.4
+1314;Lake Beef Bologna;Lake;91;7.79;5.78;t;t;8;13;17.2;6.32;20.9
+1315;Lake Low Fat Bologna;Lake;91;14.4;13.3;f;t;6;8;11.5;19.2;18.2
+1316;Lake Turkey Hot Dogs;Lake;81;17;15;t;t;20;10;14.9;3.05;14.3
+1317;Lake Foot-Long Hot Dogs;Lake;81;9.54;8.53;t;t;11;10;19.7;22.8;6.1
+1318;Lake Low Fat Cole Slaw;Lake;16;14.4;12.3;t;f;4;10;14.8;5.63;11.4
+1319;Lake Cole Slaw;Lake;16;13.2;10.1;f;t;33;7;8.49;3.33;6.64
+1320;Lake Roasted Chicken;Lake;77;21.2;19.2;f;t;27;11;21;11.9;11
+1321;Lake Corned Beef;Lake;8;16.9;15.8;t;f;8;8;20.4;4.13;16.7
+1322;Lake Sliced Turkey;Lake;8;6.66;5.65;f;t;6;13;21.5;11.4;21.8
+1323;Lake Sliced Ham;Lake;8;10.5;8.5;t;t;29;7;4.36;13.1;9.99
+1324;Lake Potato Salad;Lake;16;13.5;11.5;f;f;29;7;10.4;20.2;20.9
+1325;Lake Sliced Chicken;Lake;8;12.8;9.8;f;t;25;5;9.48;14.9;15.5
+1326;Giant Small Brown Eggs;Giant;66;9.05;7.05;f;t;20;9;20.8;20.5;18.6
+1327;Giant Large Brown Eggs;Giant;66;18.8;16.7;f;f;33;7;4.33;18.2;4.8
+1328;Giant Small Eggs;Giant;66;12.2;10.1;f;t;35;10;3.69;5.81;13.7
+1329;Giant Large Eggs;Giant;66;19.8;16.7;t;t;27;9;22.6;21;5.76
+1330;Giant Egg Substitute;Giant;66;10.9;9.89;t;t;33;13;10.5;7.37;15.4
+1331;Carrington Low Fat Waffles;Carrington;34;10.3;8.3;t;f;29;6;7.86;22;15
+1332;Carrington Orange Popsicles;Carrington;110;14.7;12.6;t;f;14;12;20.8;8.17;10.5
+1333;Carrington Frozen Chicken Breast;Carrington;100;9.92;8.92;t;t;21;12;19.3;5.89;11.3
+1334;Carrington Frozen Pancakes;Carrington;29;19.7;17.7;t;f;17;12;12.1;22.4;15
+1335;Carrington Low Fat French Fries;Carrington;63;8.15;6.14;f;f;7;11;15.1;3.05;8.1
+1336;Carrington Frozen Sausage Pizza;Carrington;64;18.8;17.7;t;f;17;14;21.3;9.63;21.6
+1337;Carrington Blueberry Waffles;Carrington;34;7.64;5.63;f;t;22;12;8.84;13.5;4.5
+1338;Carrington Fajita French Fries;Carrington;63;16.1;14.1;t;f;29;9;3.58;18.8;18.7
+1339;Carrington Waffles;Carrington;34;10.4;8.39;t;t;32;7;16.3;20.9;14.8
+1340;Carrington Frozen Pepperoni Pizza;Carrington;64;12.1;11.1;t;t;35;7;14.8;13.5;21.2
+1341;Carrington Frozen Cheese Pizza;Carrington;64;19.2;18.2;t;t;12;14;12.8;14.3;8.42
+1342;Carrington Frozen Mushroom Pizza;Carrington;64;18.5;15.5;f;f;5;10;13.8;22.4;10.4
+1343;Carrington Apple Cinnamon Waffles;Carrington;34;13.7;11.6;t;t;36;7;11;17.9;6.27
+1344;Carrington Frozen Carrots;Carrington;60;9.89;7.89;t;f;19;9;4.05;3.5;4.36
+1345;Carrington Turkey TV Dinner;Carrington;10;10.2;9.19;f;t;14;8;6.02;20.4;18.6
+1346;Carrington Chicken TV Dinner;Carrington;10;9.06;6.06;t;f;2;12;12.9;12.8;20.8
+1347;Carrington Beef TV Dinner;Carrington;10;21.2;20.2;t;t;2;9;14.5;21.7;16.4
+1348;Carrington Pancake Mix;Carrington;28;14.5;13.5;f;t;23;13;10.7;9.08;15.8
+1349;Carrington Grape Popsicles;Carrington;110;12.5;10.5;f;t;11;11;22.8;4.77;5.87
+1350;Carrington Home Style French Fries;Carrington;63;6.87;5.86;f;f;7;12;5.39;3.53;9.52
+1351;Carrington Lime Popsicles;Carrington;110;20.2;18.2;f;f;21;13;16.4;15.8;19.6
+1352;Carrington Ice Cream;Carrington;9;17.7;14.7;t;t;18;10;16.3;20.4;22.3
+1353;Carrington Ice Cream Sandwich;Carrington;9;13.9;12.8;t;f;19;7;17.7;20.4;22.9
+1354;Carrington Frozen Cauliflower;Carrington;60;9.18;8.18;f;f;1;7;6.2;3.69;6.31
+1355;Carrington Frozen Broccoli;Carrington;60;17.2;15.2;t;f;26;9;7.34;15.6;8.18
+1356;Carrington Frozen Corn;Carrington;60;11.9;9.89;f;f;10;8;4.8;14.5;6.59
+1357;Carrington Frozen Peas;Carrington;60;21.8;19.7;t;t;3;13;16.4;13.2;22.8
+1358;Carrington Popsicles;Carrington;9;11.5;8.5;f;f;13;8;16.4;7.24;17.9
+1359;Carrington Frozen Chicken Thighs;Carrington;100;21.5;19.5;t;t;12;6;6.07;8.19;9.27
+1360;Carrington Frozen Chicken Wings;Carrington;100;9.4;8.39;f;t;11;7;18;19.8;19.9
+1361;Carrington Lemon Popsicles;Carrington;110;11.5;9.5;t;f;6;8;9.66;19.1;13.6
+1362;Hilltop Silky Smooth Hair Conditioner;Hilltop;78;13.1;10.1;f;f;9;10;10.2;9.54;5.04
+1363;Hilltop Tartar Control Toothpaste;Hilltop;39;8.5;6.5;f;f;6;13;8.23;11.4;21.4
+1364;Hilltop Whitening Toothpast;Hilltop;39;19.8;17.7;t;f;29;13;17.1;7.88;12.7
+1365;Hilltop Toothpaste;Hilltop;39;6.18;4.17;t;f;24;12;8.59;9.15;12
+1366;Hilltop Deodorant;Hilltop;39;17.2;15.2;f;f;30;10;21.6;21;13.6
+1367;Hilltop Conditioning Shampoo;Hilltop;79;16.3;13.2;f;f;19;10;15.8;5.39;8.92
+1368;Hilltop Extra Moisture Shampoo;Hilltop;79;18.6;16.6;t;f;14;9;7.35;6.66;8.21
+1369;Hilltop Angled Toothbrush;Hilltop;88;13.7;10.6;t;f;20;7;20.3;18.5;9.77
+1370;Hilltop Apricot Shampoo;Hilltop;79;16;13;t;f;16;6;11.8;19.7;9.06
+1371;Hilltop Childrens Aspirin;Hilltop;70;6.4;4.4;t;f;33;12;15.4;8.09;16.9
+1372;Hilltop Buffered Aspirin;Hilltop;70;6.49;4.48;t;f;10;13;13.7;8.08;21.9
+1373;Hilltop 200 MG Ibuprofen;Hilltop;71;8.77;7.77;t;f;5;12;5.21;9.35;21.2
+1374;Hilltop 200 MG Acetominifen;Hilltop;72;18.9;17.8;t;f;23;9;14.1;5.6;13
+1375;Hilltop HCL Nasal Spray;Hilltop;73;21.1;19.1;t;f;25;11;5.63;6.87;12.3
+1376;Hilltop Dishwasher Detergent;Hilltop;73;21.5;18.5;t;f;22;14;8.96;16.9;12.2
+1377;Hilltop Multi-Symptom Cold Remedy;Hilltop;75;10.6;8.6;t;f;4;10;12.6;5.03;20.6
+1378;Hilltop Childrens Cold Remedy;Hilltop;75;12.9;9.89;t;f;6;13;4.06;6.3;19.9
+1379;Hilltop Laundry Detergent;Hilltop;74;9.26;8.26;f;f;15;11;22.5;5.76;6.52
+1380;Hilltop Mint Mouthwash;Hilltop;74;19.3;16.2;f;f;32;7;11.5;22;18.3
+1381;Sunset 60 Watt Lightbulb;Sunset;80;21.6;20.6;f;f;34;9;22.9;3.28;17.6
+1382;Sunset Plastic Forks;Sunset;56;21.7;19.7;t;f;5;8;21.3;3.27;22.6
+1383;Sunset Plastic Spoons;Sunset;56;19;17;f;f;7;10;7.48;16.4;18.5
+1384;Sunset Plastic Knives;Sunset;56;13.1;11.1;f;f;24;7;16.4;12.6;10.3
+1385;Sunset C-Size Batteries;Sunset;101;14.5;12.5;t;f;29;14;14.7;12.8;14.8
+1386;Sunset 100 Watt Lightbulb;Sunset;80;16.7;13.7;t;f;31;7;6.17;14.1;14.1
+1387;Sunset AAA-Size Batteries;Sunset;101;10.9;8.89;t;f;14;13;15.1;10.3;5.96
+1388;Sunset Paper Plates;Sunset;55;13.2;11.1;t;f;9;11;6.59;11.6;5.24
+1389;Sunset Paper Cups;Sunset;55;13.6;11.6;t;f;12;9;9.92;21.6;5.11
+1390;Sunset 75 Watt Lightbulb;Sunset;80;18.7;16.7;t;f;30;5;13.5;9.77;13.5
+1391;Sunset Toilet Bowl Cleaner;Sunset;22;20.9;19.8;t;f;26;13;5.02;11;12.8
+1392;Sunset Counter Cleaner;Sunset;22;21;18;f;f;2;6;3.36;11;17.8
+1393;Sunset Glass Cleaner;Sunset;22;16.4;14.3;t;f;19;11;12.2;7.46;9.13
+1394;Sunset 25 Watt Lightbulb;Sunset;80;18.7;16.7;t;f;15;10;3.72;8.73;8.42
+1395;Sunset AA-Size Batteries;Sunset;101;17.9;14.8;t;f;10;14;17.9;13.1;3.7
+1396;Sunset D-Size Batteries;Sunset;101;15.1;12.1;f;f;5;13;4.14;6.25;19.5
+1397;Sunset Paper Towels;Sunset;18;10.2;7.19;f;f;5;7;17.1;18.1;21.1
+1398;Sunset Soft Napkins;Sunset;18;9.38;8.38;t;f;35;11;11.4;22.4;16.4
+1399;Sunset Scented Tissue;Sunset;18;11.6;10.6;t;f;31;10;22.8;3.76;15.6
+1400;Sunset Toilet Paper;Sunset;18;8;7;f;f;29;13;15.8;15.8;16.7
+1401;Sunset Tissues;Sunset;18;10.2;8.19;f;f;31;7;7.32;17;16
+1402;Sunset Scented Toilet Tissue;Sunset;18;9.43;7.43;f;f;20;7;21.5;21.4;11.2
+1403;Sunset Room Freshener;Sunset;20;15.7;13.6;t;f;11;6;14.2;15.2;4.29
+1404;Sunset Frying Pan;Sunset;40;18;15;f;f;12;8;5.75;16.5;3.58
+1405;Sunset Copper Cleaner;Sunset;87;17.2;14.2;f;f;1;8;20;20.8;18.8
+1406;Sunset Bees Wax Candles;Sunset;47;12.2;9.19;t;f;36;12;13;12.7;20.4
+1407;Sunset Silver Cleaner;Sunset;87;14.5;13.5;t;f;3;5;4.5;14;19.7
+1408;Sunset Copper Pot Scrubber;Sunset;86;9.92;7.92;f;f;29;5;18.9;17.8;16.5
+1409;Sunset Economy Toilet Brush;Sunset;85;7.18;6.17;f;f;25;13;5.1;11;12.4
+1410;Sunset Scissors;Sunset;41;17.3;15.2;f;f;14;13;14;7.24;4.28
+1411;Sunset Large Sponge;Sunset;42;17.4;15.3;t;f;19;11;12.4;7.24;9.27
+1412;Sunset Screw Driver;Sunset;41;19.6;17.6;t;f;15;10;3.85;8.51;8.56
+1413;Gerolli Extra Lean Hamburger;Gerolli;65;13.8;11.8;t;t;4;10;12.8;4.76;20.4
+1414;Gerolli Seasoned Hamburger;Gerolli;65;19.5;17.5;t;f;26;9;3.79;17.6;8
+1415;Gauss Monthly Sports Magazine;Gauss;104;13.7;10.6;t;f;12;11;19.2;8.72;11.5
+1416;Gauss Monthly Auto Magazine;Gauss;108;16.1;15.1;t;f;14;8;9.19;18.8;10.8
+1417;Gauss Monthly Computer Magazine;Gauss;107;15.6;13.6;f;f;29;8;6.97;22.1;20.9
+1418;Gauss Monthly Home Magazine;Gauss;105;13.3;12.3;f;f;10;11;16.6;14.2;11.7
+1419;Gauss Monthly Fashion Magazine;Gauss;106;15.7;13.6;t;f;17;12;6.6;4.39;10.9
+1420;Hermanos Summer Squash;Hermanos;61;15.2;12.1;f;t;32;12;4.39;7.69;21.1
+1421;Hermanos Corn on the Cob;Hermanos;61;13.7;10.6;f;t;11;9;17.1;20;5.99
+1422;Hermanos Asparagus;Hermanos;61;8.02;6.02;t;f;1;12;21.1;9.96;9.65
+1423;Hermanos Sweet Peas;Hermanos;61;14.1;13.1;f;t;22;9;6.11;18.5;16.9
+1424;Hermanos New Potatos;Hermanos;61;17.2;15.2;t;f;11;13;11.8;7.88;17.9
+1425;Hermanos Beets;Hermanos;61;18.3;17.2;f;f;17;10;20;7.13;21.9
+1426;Hermanos Prepared Salad;Hermanos;61;13.1;12.1;f;t;21;13;4.99;11.4;10.4
+1427;Hermanos Onions;Hermanos;61;16.1;14.1;t;f;31;9;22.3;6.41;8.91
+1428;Hermanos Green Pepper;Hermanos;61;17.3;16.2;f;f;34;6;18.8;11.2;20.4
+1429;Hermanos Shitake Mushrooms;Hermanos;61;7.06;5.05;t;f;29;9;21.5;3.06;17.9
+1430;Hermanos Lettuce;Hermanos;61;18.7;15.7;t;t;33;5;12.4;11.9;6.13
+1431;Hermanos Elephant Garlic;Hermanos;61;9.75;7.75;t;t;4;6;11.3;17.1;8.3
+1432;Hermanos Red Pepper;Hermanos;61;8.22;7.22;f;f;12;8;14.5;21.7;20.6
+1433;Hermanos Garlic;Hermanos;61;16.2;14.2;f;t;30;6;16.9;15.9;7.54
+1434;Hermanos Potatos;Hermanos;61;18.3;16.2;t;t;30;11;18;22.9;13.7
+1435;Hermanos Cauliflower;Hermanos;61;17.2;16.2;f;t;28;7;14.8;20.9;18.5
+1436;Hermanos Tomatos;Hermanos;61;13.8;12.8;t;t;33;9;8.81;21;21.4
+1437;Hermanos Mushrooms;Hermanos;61;11.3;8.3;f;t;30;14;15.3;10.8;17
+1438;Hermanos Baby Onion;Hermanos;61;8.33;6.32;f;f;1;6;13;18.6;9.84
+1439;Hermanos Dried Mushrooms;Hermanos;61;9.99;7.98;f;f;11;6;22.4;21.2;13.7
+1440;Hermanos Fresh Lima Beans;Hermanos;61;10.7;8.69;f;f;9;6;16.5;20.4;20.3
+1441;Hermanos Squash;Hermanos;61;14.6;13.6;t;f;2;5;18.4;17.7;13.5
+1442;Hermanos Limes;Hermanos;99;17.2;16.2;f;f;29;12;22.3;8.15;14.6
+1443;Hermanos Firm Tofu;Hermanos;67;6.96;3.96;t;t;15;11;13.2;21;22.2
+1444;Hermanos Almonds;Hermanos;1;11.2;9.19;t;t;23;13;8.44;13.8;17.7
+1445;Hermanos Macintosh Apples;Hermanos;99;8.69;7.68;f;f;11;13;10.2;11.8;7.77
+1446;Hermanos Golden Delcious Apples;Hermanos;99;7.09;6.09;f;f;31;8;14.7;18.6;5.15
+1447;Hermanos Red Delcious Apples;Hermanos;99;16.5;14.5;f;t;27;13;22.3;11.7;21.5
+1448;Hermanos Lemons;Hermanos;99;6.79;4.78;f;t;23;9;4.48;22.4;6.53
+1449;Hermanos Fancy Plums;Hermanos;99;17.5;14.5;t;t;21;6;20.5;14.6;22.5
+1450;Hermanos Plums;Hermanos;99;17.4;16.3;t;f;31;6;10;11.5;14.4
+1451;Hermanos Peaches;Hermanos;99;17.1;15.1;t;t;9;10;3.29;10.7;3.83
+1452;Hermanos Broccoli;Hermanos;61;8.68;6.68;f;f;36;6;13.4;13.7;3.35
+1453;Hermanos Mandarin Oranges;Hermanos;99;17.6;16.6;t;t;18;14;18.8;10.2;9.93
+1454;Hermanos Mixed Nuts;Hermanos;1;17.4;15.3;t;t;11;9;10.1;16;11.8
+1455;Hermanos Canned Peanuts;Hermanos;1;16.8;15.7;t;f;30;13;7.84;8.5;21.4
+1456;Hermanos Sweet Onion;Hermanos;61;9.71;8.71;t;f;6;11;5.91;3.84;15.5
+1457;Hermanos Cantelope;Hermanos;99;21.3;19.2;f;t;16;10;6.81;7.15;21.2
+1458;Hermanos Honey Dew;Hermanos;99;21.6;18.6;t;t;17;11;19;7.44;8.08
+1459;Hermanos Fuji Apples;Hermanos;99;19.1;17.1;t;f;29;9;9.02;6.43;8.24
+1460;Hermanos Walnuts;Hermanos;1;11.1;8.1;t;f;29;14;12.8;7.34;17.5
+1461;Hermanos Oranges;Hermanos;99;15;14;t;t;34;12;13.6;11.2;20.6
+1462;Hermanos Tangerines;Hermanos;99;16.2;13.2;f;f;35;7;11.7;16;7.19
+1463;Hermanos Party Nuts;Hermanos;1;12.4;9.39;t;f;12;11;13;7.12;12.7
+1464;Amigo Lox;Amigo;24;21.4;18.3;t;f;23;6;8.91;15.7;6.85
+1465;Amigo Scallops;Amigo;2;7.92;6.92;f;t;9;6;3.99;14;15.4
+1466;Fort West Low Fat Cookies;Fort West;45;11.7;8.69;t;f;3;14;12.6;16.5;21.5
+1467;Fort West BBQ Potato Chips;Fort West;12;16.1;14.1;t;t;10;6;16.7;10.4;4.55
+1468;Fort West Corn Chips;Fort West;12;12.2;11.1;t;t;17;10;8.69;22.6;12.6
+1469;Fort West Low Fat BBQ Chips;Fort West;12;19.3;17.2;f;f;35;9;7.43;18.9;19.8
+1470;Fort West Sugar Cookies;Fort West;45;21.8;19.7;t;f;9;12;12.4;22.7;10.8
+1471;Fort West Chocolate Chip Cookies;Fort West;45;18;17;f;f;15;10;14.4;9.43;16.4
+1472;Fort West Fudge Cookies;Fort West;45;8.28;6.27;t;f;17;11;15.8;4.58;21.4
+1473;Fort West Fudge Brownies;Fort West;45;6.68;4.67;f;t;7;9;10.4;5.85;16.2
+1474;Fort West Potato Chips;Fort West;12;16;15;t;f;30;14;21.6;12.4;15.1
+1475;Fort West Lemon Cookies;Fort West;45;16.2;14.2;f;f;19;6;5.26;9.37;4.43
+1476;Fort West Graham Crackers;Fort West;45;8.77;7.77;f;t;22;7;18.7;12.4;13.6
+1477;Fort West Cheese Crackers;Fort West;82;16.3;14.2;t;t;25;12;17.2;9.92;15.6
+1478;Fort West Buttered Popcorn;Fort West;54;9.31;7.31;f;t;7;6;14.4;20.8;14.7
+1479;Fort West No Salt Popcorn;Fort West;54;18.3;16.2;t;t;24;5;19.9;6.15;16.3
+1480;Fort West Low Fat Popcorn;Fort West;54;21.2;19.2;f;t;32;6;18.8;16.7;12.1
+1481;Fort West Salsa Dip;Fort West;83;10.5;9.5;t;t;34;5;7.58;12.9;9.92
+1482;Fort West Avocado Dip;Fort West;83;19.9;17.8;t;f;24;5;5.64;18.2;13.8
+1483;Fort West Salted Pretzels;Fort West;46;11;10;t;t;20;8;3.46;10.1;6.02
+1484;Fort West Cheese Dip;Fort West;83;11.2;9.19;t;f;9;11;18.1;6;7.83
+1485;Fort West Fondue Mix;Fort West;83;8.76;6.76;t;f;6;10;6.77;22.7;22.9
+1486;Fort West Mini Donuts;Fort West;84;19;18;t;f;31;13;10.7;12.6;6.64
+1487;Fort West Beef Jerky;Fort West;17;13.8;12.8;t;f;6;12;5.19;4.78;7.65
+1488;Fort West Chocolate Donuts;Fort West;84;12.2;9.19;f;t;34;10;21.4;10.5;14.9
+1489;Fort West Low Fat Chips;Fort West;12;13.3;11.3;t;f;12;11;9.74;9.82;18.9
+1490;Fort West Sesame Crackers;Fort West;82;9.14;6.14;f;t;33;12;18.7;9.79;17.1
+1491;Fort West Frosted Cookies;Fort West;45;17.1;14.1;f;t;26;10;21.3;12.8;19
+1492;Fort West Dried Apples;Fort West;109;12.4;10.3;t;t;23;13;8.44;13.8;17.4
+1493;Fort West Apple Fruit Roll;Fort West;109;6.78;4.78;f;t;13;11;20.6;9.32;8.57
+1494;Fort West Strawberry Fruit Roll;Fort West;109;18.4;15.3;f;t;17;8;11.4;18.1;16.8
+1495;Fort West Raspberry Fruit Roll;Fort West;109;15.3;12.3;t;t;12;12;16.2;9.09;12.5
+1496;Fort West Grape Fruit Roll;Fort West;109;20.1;19.1;f;f;34;11;13.7;7.48;12.9
+1497;Fort West Dried Dates;Fort West;109;12.1;10.1;f;f;16;9;16.2;21.6;19.7
+1498;Fort West Raisins;Fort West;109;8.32;6.31;f;f;23;8;7.94;4.99;12.8
+1499;Fort West Golden Raisins;Fort West;109;7.18;6.17;f;f;14;9;4.74;22.9;17.6
+1500;Fort West Dried Apricots;Fort West;109;9.79;8.78;t;t;19;11;8.07;6.74;13.6
+1501;Fort West Frosted Donuts;Fort West;84;10;8;t;f;32;10;10.4;21.4;17.9
+1502;Gulf Coast Tasty Candy Bar;Gulf Coast;36;7.11;6.11;t;t;3;11;8.06;9.32;10.7
+1503;Gulf Coast Mint Chocolate Bar;Gulf Coast;36;21.9;19.8;t;f;22;6;16.1;19.5;20.4
+1504;Gulf Coast Malted Milk Balls;Gulf Coast;36;21.8;19.7;t;f;10;11;6.15;3.18;17.3
+1505;Gulf Coast Semi-Sweet Chocolate Bar;Gulf Coast;36;14.7;11.6;f;f;3;10;13.3;8.52;13.9
+1506;Gulf Coast Bubble Gum;Gulf Coast;37;13.2;10.1;f;f;5;11;16;6.46;21.3
+1507;Gulf Coast Spicy Mints;Gulf Coast;38;18.9;16.8;t;f;14;8;7;19.3;8.9
+1508;Gulf Coast Mints;Gulf Coast;38;10.9;7.89;t;f;33;13;18.4;14.6;3.27
+1509;Gulf Coast White Chocolate Bar;Gulf Coast;36;19.3;17.2;t;f;24;12;3.98;9.94;15
+1510;Jardon Ravioli;Jardon;5;17.7;15.7;t;t;9;7;8.47;16.7;12.3
+1511;Jardon Manicotti;Jardon;5;11.5;9.5;t;t;22;5;11.9;14.4;18.5
+1512;Jardon Spaghetti;Jardon;5;13.7;10.6;t;f;28;13;12.8;12.6;9.81
+1513;Jardon Thai Rice;Jardon;57;13.5;11.5;t;f;33;5;14.3;12.9;9.26
+1514;Jardon Rice Medly;Jardon;57;17.4;14.3;f;f;32;11;5.02;22.3;14.9
+1515;Top Measure Imported Beer;Top Measure;43;11.8;9.8;t;f;28;13;17;8.9;11
+1516;Top Measure Light Wine;Top Measure;44;10;9;f;f;35;13;8.01;13.2;16.6
+1517;Top Measure Chardonnay Wine;Top Measure;44;12.2;11.1;t;f;28;11;11;4.56;10.8
+1518;Top Measure Chablis Wine;Top Measure;44;10.4;7.39;t;f;34;11;22;8.88;16.3
+1519;Top Measure Merlot Wine;Top Measure;44;17.3;16.2;t;f;16;10;14.5;3.79;4.24
+1520;Top Measure Chardonnay;Top Measure;44;7.38;4.38;f;f;10;8;3.01;3.09;22.3
+1521;Top Measure White Zinfandel Wine;Top Measure;44;16.5;13.5;t;f;17;8;8.65;19.2;4.52
+1522;Top Measure Light Beer;Top Measure;43;12.8;10.8;f;f;24;12;11.4;12.3;10.6
+1523;Modell Pumpernickel Bread;Modell;27;21.9;19.8;t;t;31;13;17.1;8.55;12.8
+1524;Modell White Bread;Modell;27;10.3;9.3;t;t;10;6;10;14.6;8.32
+1525;Modell Rye Bread;Modell;27;15.5;13.5;t;t;23;10;15.6;10.6;16.4
+1526;Modell English Muffins;Modell;26;15.3;14.3;f;t;16;5;6.93;16.4;18.4
+1527;Modell Cranberry Muffins;Modell;26;14.7;12.6;f;f;36;10;4.65;8.86;8.02
+1528;Modell Muffins;Modell;26;7.28;4.28;t;f;27;7;17.7;14.1;7.24
+1529;Modell Bagels;Modell;25;13.9;12.8;t;f;1;5;13.3;9.35;9.54
+1530;Modell Blueberry Muffins;Modell;26;14.2;12.1;f;f;3;7;5.57;9.63;16.3
+1531;Modell Wheat Bread;Modell;27;11.7;8.69;t;f;6;5;15.5;8.63;16.5
+1532;CDR Sesame Oil;CDR;49;8.7;7.69;f;f;8;6;4.62;17.6;9.2
+1533;CDR Chunky Peanut Butter;CDR;53;7.63;5.63;t;t;13;13;20.1;13.4;8.93
+1534;CDR Hot Chocolate;CDR;51;8.77;7.77;f;t;14;8;18.2;18.2;15.4
+1535;CDR Brown Sugar;CDR;50;10.3;8.3;t;f;23;11;9.86;7.49;19.3
+1536;CDR White Sugar;CDR;50;6.43;4.42;f;t;29;11;22.8;13;17.4
+1537;CDR French Roast Coffee;CDR;90;16.7;14.7;t;f;14;11;15.4;6.26;18.5
+1538;CDR Decaf Coffee;CDR;90;10.4;8.39;f;f;12;10;21.6;19.1;15.5
+1539;CDR Regular Coffee;CDR;90;11.3;10.3;t;f;35;9;6.3;21.4;10.2
+1540;CDR Vegetable Oil;CDR;49;21.4;19.3;t;f;8;6;8.36;18.8;17
+1541;CDR Corn Oil;CDR;49;21.2;18.2;t;t;19;13;18.5;11.3;8.97
+1542;CDR Tomato Sauce;CDR;48;8.22;6.22;t;t;19;10;15.8;6.28;7.42
+1543;CDR Canola Oil;CDR;49;20.4;18.3;t;t;25;12;7.07;22.9;15.5
+1544;CDR Grape Preserves;CDR;33;17;16;t;t;34;7;12.4;19.6;20.9
+1545;CDR Columbian Coffee;CDR;90;9.52;7.52;f;f;31;5;6.04;11.6;5.17
+1546;CDR Strawberry Jelly;CDR;31;11.3;10.3;f;t;33;11;6.36;19.6;4.5
+1547;CDR Pepper;CDR;4;16.1;14.1;t;f;14;9;12.9;19.1;12.3
+1548;CDR Low Fat Apple Butter;CDR;33;21;19;t;f;1;5;8.24;10.8;12.7
+1549;CDR Salt;CDR;4;17.9;16.8;f;f;19;10;16.7;8.67;3.05
+1550;CDR Apple Butter;CDR;33;7.7;4.69;f;t;17;6;17.7;16;8.14
+1551;CDR Oregano;CDR;4;15.3;13.3;f;f;32;7;16.8;20.1;15.1
+1552;CDR Apple Jelly;CDR;31;21.4;20.3;t;f;10;8;20.1;4.18;10.1
+1553;CDR Grape Jam;CDR;32;13.5;10.5;t;f;16;6;20.7;9.45;6.96
+1554;CDR Apple Jam;CDR;32;21;19;t;t;25;8;8.25;18.8;21.9
+1555;CDR Strawberry Jam;CDR;32;21.7;18.7;t;t;18;8;14.2;21.4;16
+1556;CDR Creamy Peanut Butter;CDR;53;6.94;3.94;t;t;7;9;11.1;3.98;17.5
+1557;CDR Strawberry Preserves;CDR;33;15.4;13.3;t;f;15;6;14.1;14.8;19.3
+1558;CDR Extra Chunky Peanut Butter;CDR;53;11.5;9.5;f;t;22;10;7.35;9.29;12.4
+1559;CDR Apple Preserves;CDR;33;21;20;f;f;7;9;15.3;20.2;18.8
+1560;CDR Grape Jelly;CDR;31;12.5;10.5;f;t;1;9;5.44;3.24;18.3
