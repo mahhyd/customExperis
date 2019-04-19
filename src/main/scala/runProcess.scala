@@ -130,15 +130,6 @@ object runProcess extends App {
 
 
   //************************* third Part (use case class for convert DF to DS) *******************************
-  //load region.csv with schema
-  val regionSchemattt = StructType(Array(
-    StructField("region_id", IntegerType, true),
-    StructField("sales_city", StringType, true),
-    StructField("sales_state_province", StringType, true),
-    StructField("sales_district", StringType, true),
-    StructField("sales_region", StringType, true),
-    StructField("sales_country", StringType, true),
-    StructField("sales_district_id", IntegerType, true)))
   // 1.Create DataSet from StructType
   import spark.implicits._
   // Note: Case classes in Scala 2.10 can support only up to 22 fields. To work around this limit,
@@ -161,22 +152,20 @@ object runProcess extends App {
     .load("src/main/ressource/region.txt")
   dfRegiontxt.show(10)
 
-  // 3.Create DataSet from text file not structured using case class
+  // 4.Create DataSet from text file not structured using case class
   val dfRegiontxt1 = spark.read.textFile("src/main/ressource/region.txt").map(x => x.split(";")).show(11)
 
   val dfRegiontxt2 = spark.read.textFile("src/main/ressource/region.txt").map(x => x.split(";")).map(arrays => Region(arrays(0).toInt, arrays(1).toString, arrays(2).toString, arrays(3).toString, arrays(4).toString, arrays(5).toString, arrays(6).toInt))
   dfRegiontxt2.show(9)
 
-  // 4.Create DataSet from rdd
+  // 5.Create DataSet from rdd
   val rddRegion = spark.sparkContext.textFile("src/main/ressource/region.txt")
   //rddRegion.collect().map(line => println(line))
 
-  // 4.1.Create DataSet from rdd using case class
+  // 5.1.Create DataSet from rdd using case class
   val dfRegion1 = rddRegion.map(_.split(";")).map(arrays => Region(arrays(0).toInt, arrays(1).toString, arrays(2).toString, arrays(3).toString, arrays(4).toString, arrays(5).toString, arrays(6).toInt)).toDS()
   dfRegion1.show(17)
 
-  // 4.2. Create DataSet from rdd using StructureType
-
-
+  // 5.2. Create DataSet from rdd using StructureType
 
 }
