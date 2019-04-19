@@ -143,7 +143,7 @@ object runProcess extends App {
   val caseClassRegionDS2 = dfRegion.as[Region]
   caseClassRegionDS2.show(16)
 
-  // 3.Create DataSet from text file structured
+  // 3.Create DataSet from text file structured using schema
   val dfRegiontxt = spark.read
     .format("csv")
     .option("header", "false")
@@ -163,9 +163,10 @@ object runProcess extends App {
   //rddRegion.collect().map(line => println(line))
 
   // 5.1.Create DataSet from rdd using case class
-  val dfRegion1 = rddRegion.map(_.split(";")).map(arrays => Region(arrays(0).toInt, arrays(1).toString, arrays(2).toString, arrays(3).toString, arrays(4).toString, arrays(5).toString, arrays(6).toInt)).toDS()
-  dfRegion1.show(17)
+  val dfRegion1 = rddRegion.map(_.split(";")).map(arrays => Region(arrays(0).toInt, arrays(1).toString, arrays(2).toString, arrays(3).toString, arrays(4).toString, arrays(5).toString, arrays(6).toInt)).toDF()
+  dfRegion1.show(13)
 
-  // 5.2. Create DataSet from rdd using StructureType
-
+  // 5.2.Create DataSet from rdd using case class
+  val dsRegion = rddRegion.map(_.split(";")).map(arrays => Region(arrays(0).toInt, arrays(1).toString, arrays(2).toString, arrays(3).toString, arrays(4).toString, arrays(5).toString, arrays(6).toInt)).toDS()
+  dsRegion.show(17)
 }
